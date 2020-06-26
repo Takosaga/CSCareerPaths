@@ -9,10 +9,35 @@
 import SwiftUI
 
 struct CareersView: View {
+    @ObservedObject var favorites = Favorites()
+    let careers: [Career] = Bundle.main.decode("careers.JSON")
+    
     var body: some View {
-        Text("List of career paths to come")
+        NavigationView {
+            List(careers) { career in
+                VStack(alignment: .leading) {
+                    Text(career.name)
+                        .font(.headline)
+                    
+                    Text("\(career.runs) runs")
+                        
+                        .foregroundColor(.secondary)
+                }
+                .layoutPriority(1)
+                
+                if self.favorites.contains(career) {
+                    Spacer()
+                    Image(systemName: "heart.fill")
+                        .accessibility(label: Text("This is a favorite career"))
+                        .foregroundColor(.red)
+                }
+            }
+        }
+        .navigationBarTitle("Careers")
+        
     }
 }
+
 
 struct CareersView_Previews: PreviewProvider {
     static var previews: some View {

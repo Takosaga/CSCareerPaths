@@ -22,7 +22,7 @@ struct Career: Codable, Identifiable {
     let facilities: [String]
     
     static let allCareers: [Career] =
-        Bundle.main.decode("careers.json")
+        Bundle.main.decode("careers.JSON")
     static let example = allCareers[0]
 }
 
