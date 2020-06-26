@@ -11,6 +11,8 @@
 		A5210D4024A52151005BDAF4 /* Career.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5210D3F24A52151005BDAF4 /* Career.swift */; };
 		A5210D4224A5224B005BDAF4 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5210D4124A5224B005BDAF4 /* Bundle-Decodable.swift */; };
 		A5210D4424A5243C005BDAF4 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5210D4324A5243C005BDAF4 /* Favorites.swift */; };
+		A5210D4624A63F71005BDAF4 /* courses.JSON in Resources */ = {isa = PBXBuildFile; fileRef = A5210D4524A63F71005BDAF4 /* courses.JSON */; };
+		A5210D4C24A6404B005BDAF4 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5210D4B24A6404B005BDAF4 /* Course.swift */; };
 		A5339CFB24A15C9000551446 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339CFA24A15C9000551446 /* AppDelegate.swift */; };
 		A5339CFD24A15C9000551446 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339CFC24A15C9000551446 /* SceneDelegate.swift */; };
 		A5339CFF24A15C9000551446 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339CFE24A15C9000551446 /* ContentView.swift */; };
@@ -27,6 +29,8 @@
 		A5210D3F24A52151005BDAF4 /* Career.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Career.swift; sourceTree = "<group>"; };
 		A5210D4124A5224B005BDAF4 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		A5210D4324A5243C005BDAF4 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		A5210D4524A63F71005BDAF4 /* courses.JSON */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = courses.JSON; sourceTree = "<group>"; };
+		A5210D4B24A6404B005BDAF4 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		A5339CF724A15C9000551446 /* CSCareerPaths.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CSCareerPaths.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5339CFA24A15C9000551446 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5339CFC24A15C9000551446 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,7 +83,9 @@
 				A5339D1824A15E0000551446 /* TeacherView.swift */,
 				A5339D0024A15C9100551446 /* Assets.xcassets */,
 				A5339D0524A15C9100551446 /* LaunchScreen.storyboard */,
+				A5210D4524A63F71005BDAF4 /* courses.JSON */,
 				A5210D3D24A520B2005BDAF4 /* careers.JSON */,
+				A5210D4B24A6404B005BDAF4 /* Course.swift */,
 				A5210D3F24A52151005BDAF4 /* Career.swift */,
 				A5210D4124A5224B005BDAF4 /* Bundle-Decodable.swift */,
 				A5339D0824A15C9100551446 /* Info.plist */,
@@ -157,6 +163,7 @@
 				A5339D0724A15C9100551446 /* LaunchScreen.storyboard in Resources */,
 				A5210D3E24A520B3005BDAF4 /* careers.JSON in Resources */,
 				A5339D0424A15C9100551446 /* Preview Assets.xcassets in Resources */,
+				A5210D4624A63F71005BDAF4 /* courses.JSON in Resources */,
 				A5339D0124A15C9100551446 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -170,6 +177,7 @@
 			files = (
 				A5210D4424A5243C005BDAF4 /* Favorites.swift in Sources */,
 				A5339D1524A15DED00551446 /* CareersView.swift in Sources */,
+				A5210D4C24A6404B005BDAF4 /* Course.swift in Sources */,
 				A5339D1724A15DF800551446 /* CoursesView.swift in Sources */,
 				A5339CFB24A15C9000551446 /* AppDelegate.swift in Sources */,
 				A5210D4224A5224B005BDAF4 /* Bundle-Decodable.swift in Sources */,

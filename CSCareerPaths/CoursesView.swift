@@ -9,8 +9,25 @@
 import SwiftUI
 
 struct CoursesView: View {
+    let courses: [Course] = Bundle.main.decode("courses.JSON")
+    
     var body: some View {
-        Text("Courses Avialable At McHS")
+        NavigationView {
+            List(courses) { course in
+                VStack(alignment: .leading) {
+                    Text(course.name)
+                        .font(.headline)
+                    
+                    Text("\(course.runs) runs")
+                        
+                        .foregroundColor(.secondary)
+                }
+                .layoutPriority(1)
+                
+            }
+        }
+        .navigationBarTitle("Courses")
+        
     }
 }
 
