@@ -22,6 +22,8 @@
 		A5339D1524A15DED00551446 /* CareersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339D1424A15DED00551446 /* CareersView.swift */; };
 		A5339D1724A15DF800551446 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339D1624A15DF800551446 /* CoursesView.swift */; };
 		A5339D1924A15E0000551446 /* TeacherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5339D1824A15E0000551446 /* TeacherView.swift */; };
+		A579D5E924AE9FC8001D1907 /* CareerDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */; };
+		A579D5EB24AEA3FD001D1907 /* CourseDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A579D5EA24AEA3FD001D1907 /* CourseDetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		A5339D1424A15DED00551446 /* CareersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareersView.swift; sourceTree = "<group>"; };
 		A5339D1624A15DF800551446 /* CoursesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesView.swift; sourceTree = "<group>"; };
 		A5339D1824A15E0000551446 /* TeacherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeacherView.swift; sourceTree = "<group>"; };
+		A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareerDetailsView.swift; sourceTree = "<group>"; };
+		A579D5EA24AEA3FD001D1907 /* CourseDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +82,10 @@
 				A5339CFC24A15C9000551446 /* SceneDelegate.swift */,
 				A5339CFE24A15C9000551446 /* ContentView.swift */,
 				A5339D1424A15DED00551446 /* CareersView.swift */,
+				A579D5EA24AEA3FD001D1907 /* CourseDetailsView.swift */,
 				A5210D4324A5243C005BDAF4 /* Favorites.swift */,
 				A5339D1624A15DF800551446 /* CoursesView.swift */,
+				A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */,
 				A5339D1824A15E0000551446 /* TeacherView.swift */,
 				A5339D0024A15C9100551446 /* Assets.xcassets */,
 				A5339D0524A15C9100551446 /* LaunchScreen.storyboard */,
@@ -179,8 +185,10 @@
 				A5339D1524A15DED00551446 /* CareersView.swift in Sources */,
 				A5210D4C24A6404B005BDAF4 /* Course.swift in Sources */,
 				A5339D1724A15DF800551446 /* CoursesView.swift in Sources */,
+				A579D5EB24AEA3FD001D1907 /* CourseDetailsView.swift in Sources */,
 				A5339CFB24A15C9000551446 /* AppDelegate.swift in Sources */,
 				A5210D4224A5224B005BDAF4 /* Bundle-Decodable.swift in Sources */,
+				A579D5E924AE9FC8001D1907 /* CareerDetailsView.swift in Sources */,
 				A5210D4024A52151005BDAF4 /* Career.swift in Sources */,
 				A5339CFD24A15C9000551446 /* SceneDelegate.swift in Sources */,
 				A5339CFF24A15C9000551446 /* ContentView.swift in Sources */,

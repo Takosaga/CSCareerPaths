@@ -15,25 +15,29 @@ struct CareersView: View {
     var body: some View {
         NavigationView {
             List(careers) { career in
-                VStack(alignment: .leading) {
-                    Text(career.name)
-                        .font(.headline)
-                    
-                    Text("\(career.runs) runs")
-                        
-                        .foregroundColor(.secondary)
-                }
-                .layoutPriority(1)
+                NavigationLink(destination:
+                CareerDetailsView(career: career)) {
                 
-                if self.favorites.contains(career) {
-                    Spacer()
-                    Image(systemName: "heart.fill")
-                        .accessibility(label: Text("This is a favorite career"))
-                        .foregroundColor(.red)
+                    VStack(alignment: .leading) {
+                        Text(career.name)
+                            .font(.headline)
+                        
+                        Text("\(career.runs) runs")
+                            
+                            .foregroundColor(.secondary)
+                    }
+                    .layoutPriority(1)
+                    
+                    if self.favorites.contains(career) {
+                        Spacer()
+                        Image(systemName: "heart.fill")
+                            .accessibility(label: Text("This is a favorite career"))
+                            .foregroundColor(.red)
+                    }
                 }
             }
+            .navigationBarTitle("Careers")
         }
-        .navigationBarTitle("Careers")
         
     }
 }

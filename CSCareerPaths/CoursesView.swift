@@ -14,20 +14,20 @@ struct CoursesView: View {
     var body: some View {
         NavigationView {
             List(courses) { course in
-                VStack(alignment: .leading) {
-                    Text(course.name)
-                        .font(.headline)
-                    
-                    Text("\(course.runs) runs")
-                        
-                        .foregroundColor(.secondary)
-                }
-                .layoutPriority(1)
-                
+                NavigationLink(destination: CourseDetailsView(course: course)){
+                        VStack(alignment: .leading) {
+                            Text(course.name)
+                                .font(.headline)
+                            
+                            Text("\(course.runs) runs")
+                                
+                                .foregroundColor(.secondary)
+                        }
+                        .layoutPriority(1)
+                    }
             }
+            .navigationBarTitle("Courses")
         }
-        .navigationBarTitle("Courses")
-        
     }
 }
 
