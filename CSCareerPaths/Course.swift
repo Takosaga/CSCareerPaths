@@ -11,7 +11,6 @@ import Foundation
 struct Course: Codable, Identifiable {
     let id: String
     let name: String
-    let country: String
     let description: String
     let imageCredit: String
     let price: Int

@@ -10,8 +10,8 @@ import Foundation
 
 struct Career: Codable, Identifiable {
     let id: String
+    let field: String
     let name: String
-    let country: String
     let description: String
     let imageCredit: String
     let price: Int
@@ -19,6 +19,7 @@ struct Career: Codable, Identifiable {
     let snowDepth: Int
     let elevation: Int
     let runs: Int
+    let jobs: Int
     let facilities: [String]
     
     static let allCareers: [Career] =

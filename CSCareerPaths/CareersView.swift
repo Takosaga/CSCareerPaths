@@ -19,10 +19,10 @@ struct CareersView: View {
                 CareerDetailsView(career: career)) {
                 
                     VStack(alignment: .leading) {
-                        Text(career.name)
+                        Text(career.field)
                             .font(.headline)
                         
-                        Text("\(career.runs) runs")
+                        Text("\(career.jobs) jobs in field")
                             
                             .foregroundColor(.secondary)
                     }
@@ -36,7 +36,7 @@ struct CareersView: View {
                     }
                 }
             }
-            .navigationBarTitle("Careers")
+            .navigationBarTitle("Career Fields")
         }
         
     }
