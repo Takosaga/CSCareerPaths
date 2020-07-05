@@ -13,8 +13,27 @@ struct CareerDetailsView: View {
     let career: Career
     
     var body: some View {
-        Text("\(career.description)")
+        NavigationView {
+            List(career.job) { job in
+                VStack(alignment: .leading) {
+                    Text(job)
+                        .font(.headline)
+                    
+                    Text("Avg $:")
+                        .foregroundColor(.secondary)
+                    
+                    Text("Short Description:")
+                    .foregroundColor(.secondary)
+                        
+                }
+                .layoutPriority(1)
+            }
+            .navigationBarTitle("Jobs", displayMode: .inline)
+        }
     }
+}
+extension String: Identifiable {
+    public var id: String { self }
 }
 
 struct CareerDetailsView_Previews: PreviewProvider {

@@ -1,6 +1,6 @@
 [
 	{
-		"id": "les-trois-vallees",
+		"id": "infra",
         "field": "Infrastructure",
 		"name": "Les Trois Vallées",
 		"country": "France",
@@ -17,10 +17,19 @@
 			"Cross-country",
 			"Accommodation",
 			"Eco-friendly"
-		]
+		],
+        "job": [
+            "Sysadmin",
+            "Dev-ops",
+            "Network Engineer",
+            "Data Center Ops",
+            "Cable & Router Technicians",
+            "Database Adminstrators",
+            "Technical Support & Documentation"
+        ]
 	},
 	{
-		"id": "saint-anton-am-arlberg",
+		"id": "back",
         "field": "Backend",
 		"name": "Saint Anton am Arlberg",
 		"country": "Austria",
@@ -37,10 +46,21 @@
 			"Beginners",
 			"Accommodation",
 			"Eco-friendly"
-		]
+		],
+        "job": [
+            "Full Stack Engineers",
+            "Backend Application Development",
+            "Project Management",
+            "Engineering Management",
+            "Software Architects",
+            "API Design",
+            "Security & Pentesting",
+            "Distributed System Architects",
+            "Database Adminstrators"
+        ]
 	},
 	{
-		"id": "vail-ski-resort",
+		"id": "front",
         "field": "Frontend",
 		"name": "Vail Ski Resort",
 		"country": "United States",
@@ -56,10 +76,17 @@
 			"Family",
 			"Cross-country",
 			"Beginners"
-		]
+		],
+        "job": [
+            "Full Stack Engineers",
+            "UX/UI Front End Designers",
+            "General Front End Web Development",
+            "Single-page App Development",
+            "Quality Assurance & Testing"
+        ]
 	},
 	{
-		"id": "squaw-valley",
+		"id": "native",
         "field": "Native",
 		"name": "Squaw Valley",
 		"country": "United States",
@@ -75,10 +102,17 @@
 			"Family",
 			"Beginners",
 			"Accommodation"
-		]
+		],
+        "job": [
+            "Android & iOS",
+            "Consumer-facing Windows Desktop, OS X Desktop, Linux App Development",
+            "Enterprise software development",
+            "IT Administration & Admin Software Design",
+            "Software Architecture"
+        ]
 	},
 	{
-		"id": "snowbird",
+		"id": "science",
         "field": "Science and Theory",
 		"name": "Snowbird",
 		"country": "United States",
@@ -89,13 +123,22 @@
 		"snowDepth": 175,
 		"elevation": 3300,
 		"runs": 170,
-        "jobs": 8,
+        "jobs": 7,
 		"facilities": [
 			"Family"
-		]
+		],
+        "job": [
+            "Scientific Research",
+            "Pure Compsci/Pure Math Research ",
+            "Scientific Software Development",
+            "Data Science",
+            "Machine Learning",
+            "Compiler & Language Design",
+            "OS Design"
+        ]
 	},
 	{
-		"id": "deer-valley",
+		"id": "market",
         "field": "Marketing",
 		"name": "Deer Valley",
 		"country": "United States",
@@ -111,10 +154,16 @@
 			"Family",
 			"Beginners",
 			"Accommodation"
-		]
+		],
+        "job": [
+            "Growth hacking/web scraping",
+            "Analytics",
+            "SEO & SEM",
+            "General Marketing Development"
+        ]
 	},
 	{
-		"id": "la-plagne",
+		"id": "hardware",
         "field": "Hardware and Graphics",
 		"name": "La Plagne",
 		"country": "France",
@@ -131,6 +180,14 @@
 			"Beginners",
 			"Accommodation",
 			"Eco-friendly"
-		]
+		],
+        "job": [
+            "Embedded Software",
+            "Chip Design & Architecture",
+            "Game Development",
+            "Graphics Software Development",
+            "3D Printing & Machining Coding",
+            "CGI & Animation"
+        ]
 	},
 ]

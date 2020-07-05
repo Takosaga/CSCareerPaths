@@ -26,7 +26,7 @@ struct CoursesView: View {
                         .layoutPriority(1)
                     }
             }
-            .navigationBarTitle("Courses")
+            .navigationBarTitle("Courses", displayMode: .inline)
         }
     }
 }

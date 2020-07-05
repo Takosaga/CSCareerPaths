@@ -21,6 +21,7 @@ struct Career: Codable, Identifiable {
     let runs: Int
     let jobs: Int
     let facilities: [String]
+    let job: [String]
     
     static let allCareers: [Career] =
         Bundle.main.decode("careers.JSON")

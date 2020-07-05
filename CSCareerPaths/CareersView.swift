@@ -36,7 +36,7 @@ struct CareersView: View {
                     }
                 }
             }
-            .navigationBarTitle("Career Fields")
+            .navigationBarTitle("Career Fields", displayMode: .inline)
         }
         
     }
