@@ -11,16 +11,9 @@ import Foundation
 struct Career: Codable, Identifiable {
     let id: String
     let field: String
-    let name: String
     let description: String
     let imageCredit: String
-    let price: Int
-    let size: Int
-    let snowDepth: Int
-    let elevation: Int
-    let runs: Int
     let jobs: Int
-    let facilities: [String]
     let job: [String]
     
     static let allCareers: [Career] =

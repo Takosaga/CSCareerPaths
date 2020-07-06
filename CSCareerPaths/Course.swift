@@ -11,14 +11,10 @@ import Foundation
 struct Course: Codable, Identifiable {
     let id: String
     let name: String
+    let level: String
     let description: String
     let imageCredit: String
-    let price: Int
-    let size: Int
-    let snowDepth: Int
-    let elevation: Int
-    let runs: Int
-    let facilities: [String]
+   
     
     static let allCourses: [Course] =
         Bundle.main.decode("course.JSON")

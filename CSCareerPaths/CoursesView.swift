@@ -19,7 +19,7 @@ struct CoursesView: View {
                             Text(course.name)
                                 .font(.headline)
                             
-                            Text("\(course.runs) runs")
+                            Text("Recommended for: \(course.level)")
                                 
                                 .foregroundColor(.secondary)
                         }

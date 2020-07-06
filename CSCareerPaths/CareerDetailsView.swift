@@ -28,7 +28,7 @@ struct CareerDetailsView: View {
                 }
                 .layoutPriority(1)
             }
-            .navigationBarTitle("Jobs", displayMode: .inline)
+            .navigationBarTitle("\(career.field)", displayMode: .inline)
         }
     }
 }

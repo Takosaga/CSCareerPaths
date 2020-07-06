@@ -2,22 +2,9 @@
 	{
 		"id": "infra",
         "field": "Infrastructure",
-		"name": "Les Trois Vallées",
-		"country": "France",
 		"description": "Les Trois Vallées is a ski region in the Tarentaise Valley, Savoie département of France, to the south of the town of Moûtiers, partly in the Vanoise National Park.\n\nSince 1973, it has been possible to ski the interlinked valleys using a single ski pass. Thus, Les Trois Vallées is the largest ski area in the world which is connected solely by ski lifts and slopes. It claims to have about 600 km (370 mi) of ski slopes, resulting in 18.5 km² of groomed runs, while an independent expert measured about 493 km. In addition, there are 120 km for cross-country skiing. Les Trois Vallées has 183 ski lifts, which can transport 260,000 skiers per hour. Other equipment owned by the operating companies include 2,300 snow cannons and 73 snow grooming machines operated by 160 snow groomers who work in shifts during the night. Other employees in the area include 424 ski patrollers and 3,000 ski instructors.\n\nAs implied by its name, the area originally consisted of three valleys: Saint-Bon, Allues, and Belleville. The skiing area has since been extended into a 'fourth' valley, the Maurienne valley. It is adjacent to Val Thorens, but can also be accessed using a long gondola lift from Orelle.",
 		"imageCredit": "Ben Koorengevel",
-		"price": 3,
-		"size": 3,
-		"snowDepth": 155,
-		"elevation": 3230,
-		"runs": 335,
         "jobs": 7,
-		"facilities": [
-			"Family",
-			"Cross-country",
-			"Accommodation",
-			"Eco-friendly"
-		],
         "job": [
             "Sysadmin",
             "Dev-ops",
@@ -31,22 +18,9 @@
 	{
 		"id": "back",
         "field": "Backend",
-		"name": "Saint Anton am Arlberg",
-		"country": "Austria",
 		"description": "Sankt Anton am Arlberg, commonly referred to as St. Anton, is a village and ski resort in the Austrian state of Tyrol. It lies in the Tyrolean Alps, with aerial tramways and chairlifts up to 2,811 m (9,222 ft), yielding a vertical drop of 1,507 m (4,944 ft). It is also a popular summer resort among hikers, trekkers and mountaineers.\n\nSkiing has a long history in St. Anton: ski instructors from the area emigrated to the US in the 1930s, helping to popularise the sport. St. Anton was the host of the Alpine World Ski Championships in 2001. St. Anton is frequently listed as one of the world's top skiing resorts both in terms of skiing available and après-ski entertainment.",
 		"imageCredit": "Christian ter Maat",
-		"price": 3,
-		"size": 2,
-		"snowDepth": 150,
-		"elevation": 3000,
-		"runs": 141,
         "jobs": 9,
-		"facilities": [
-			"Family",
-			"Beginners",
-			"Accommodation",
-			"Eco-friendly"
-		],
         "job": [
             "Full Stack Engineers",
             "Backend Application Development",
@@ -62,21 +36,11 @@
 	{
 		"id": "front",
         "field": "Frontend",
-		"name": "Vail Ski Resort",
-		"country": "United States",
 		"description": "Vail Ski Resort is a ski resort located near the town of Vail in Eagle County, Colorado. At 5,289 acres (8.3 sq mi; 21.4 km2), it is the third-largest single-mountain ski resort in the United States, behind Big Sky and Park City, featuring seven bowls and intermediate gladed terrain in Blue Sky Basin.\n\nVail opened in 1962 and is one of 19 mountain resorts owned and operated by Vail Resorts, which also operates three other nearby ski resorts (Beaver Creek, Breckenridge, and Keystone).\n\nVail Mountain has three sections: the Front-Side, Blue Sky Basin, and the Back Bowls. Most of the resort is wide open terrain with all types of trails. There are cruising runs accessible from most front side and Blue Sky Basin lifts, as well as the wide open Back Bowls, glades, and chutes.",
 		"imageCredit": "Fabrizio Conti",
-		"price": 3,
-		"size": 2,
-		"snowDepth": 97,
-		"elevation": 3125,
-		"runs": 195,
+		
         "jobs": 5,
-		"facilities": [
-			"Family",
-			"Cross-country",
-			"Beginners"
-		],
+
         "job": [
             "Full Stack Engineers",
             "UX/UI Front End Designers",
@@ -88,21 +52,12 @@
 	{
 		"id": "native",
         "field": "Native",
-		"name": "Squaw Valley",
-		"country": "United States",
+		
 		"description": "Squaw Valley Ski Resort in Olympic Valley, California, is one of the largest ski areas in the United States, and was the host site of the entire 1960 Winter Olympics. It is the second-largest ski area in Lake Tahoe after Heavenly, with 30 chairlifts, 3,600 acres (15 km2) and the only funitel in the U.S. Since Squaw Valley joined forces with Alpine Meadows in 2012, the resorts offer joint access to 6,200 acres (25 km2), 43 lifts and over 270 trails. The resort attracts approximately 600,000 skiers a year.\n\nLocated west of Lake Tahoe in the Sierra Nevada with a base of 6,200 ft (1,890 m) and a skiable 3,600 acres (15 km2) across six peaks, the resort tops out at 9,050 ft (2,760 m) at Granite Chief. Not far from Donner Pass, the area receives heavy maritime snowfall, frequently receiving 40 feet (12 m) or more in a winter.\n\nA scenic aerial tramway rises 2,000 ft (610 m) to High Camp at an elevation of 8,200 ft (2,500 m) above sea level. At High Camp, tourists have access to the facilities of Squaw Valley, including a pool, roller skating, dining, shopping, and high-altitude disc golf.",
 		"imageCredit": "Kasya Shahovskaya",
-		"price": 3,
-		"size": 3,
-		"snowDepth": 150,
-		"elevation": 2760,
-		"runs": 270,
+		
         "jobs": 5,
-		"facilities": [
-			"Family",
-			"Beginners",
-			"Accommodation"
-		],
+		
         "job": [
             "Android & iOS",
             "Consumer-facing Windows Desktop, OS X Desktop, Linux App Development",
@@ -114,19 +69,12 @@
 	{
 		"id": "science",
         "field": "Science and Theory",
-		"name": "Snowbird",
-		"country": "United States",
+		
 		"description": "Snowbird resort is a year-round ski and summer resort located in the heart of the Wasatch National Forest on the eastern border of the Salt Lake City suburb of Sandy. It is 29 miles (47 km) from Salt Lake City International Airport, 24 miles (39 km) from downtown Salt Lake City and 4 miles (6 km) east of the suburb of Sandy. The resort first opened in December 1971.\n\nSnowbird shares Little Cottonwood Canyon with Alta Ski Area to the east, just up the canyon over a ridge that separates the two. Beginning winter 2002, the two resorts offer a joint day pass and a joint season ticket allowing full access all of the terrain on both mountains: 26 ski lifts and tows and a skiable area of 4,700 acres (19 km2).\n\nThe collaboration coincided with the opening of a new lift in Mineral Basin, a large bowl owned by Snowbird on the back of Snowbird's Hidden Peak and Alta's Sugarloaf mountains that had been skiable within the resort since 1999. The installation of Baldy Express in 2002 allowed access to Alta from the Basin. Other access points between the two resorts exist as well.",
 		"imageCredit": "Maarten Duineveld",
-		"price": 2,
-		"size": 2,
-		"snowDepth": 175,
-		"elevation": 3300,
-		"runs": 170,
+		
         "jobs": 7,
-		"facilities": [
-			"Family"
-		],
+		
         "job": [
             "Scientific Research",
             "Pure Compsci/Pure Math Research ",
@@ -140,21 +88,12 @@
 	{
 		"id": "market",
         "field": "Marketing",
-		"name": "Deer Valley",
-		"country": "United States",
+		
 		"description": "Deer Valley is an alpine ski resort in the Wasatch Range, located 36 miles (58 km) east of Salt Lake City, in Park City, Utah, United States. The resort, known for its upscale amenities, is consistently ranked among the top ski resorts in North America.\n\nDeer Valley was a venue site during 2002 Winter Olympics, hosting the freestyle moguls, aerial, and alpine slalom events. It also regularly hosts competitions for the International Ski Federation.",
 		"imageCredit": "Maarten Duineveld",
-		"price": 3,
-		"size": 1,
-		"snowDepth": 103,
-		"elevation": 2000,
-		"runs": 103,
+		
         "jobs": 4,
-		"facilities": [
-			"Family",
-			"Beginners",
-			"Accommodation"
-		],
+		
         "job": [
             "Growth hacking/web scraping",
             "Analytics",
@@ -165,22 +104,12 @@
 	{
 		"id": "hardware",
         "field": "Hardware and Graphics",
-		"name": "La Plagne",
-		"country": "France",
+
 		"description": "La Plagne is a French ski area in the alpine valley of the Tarentaise (Savoie). Since 2003, La Plagne and the neighbouring resort of Les Arcs form Paradiski's ski area. It is currently owned by Compagnie des Alpes.\n\nLa Plagne is the most popular ski resort in the world with more than 2.5 million visitors a season on average.",
 		"imageCredit": "Mauro Paillex",
-		"price": 2,
-		"size": 3,
-		"snowDepth": 200,
-		"elevation": 3100,
-		"runs": 128,
+		
         "jobs": 6,
-		"facilities": [
-			"Cross-country",
-			"Beginners",
-			"Accommodation",
-			"Eco-friendly"
-		],
+		
         "job": [
             "Embedded Software",
             "Chip Design & Architecture",
