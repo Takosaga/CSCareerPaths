@@ -17,6 +17,15 @@ struct CareersView: View {
             List(careers) { career in
                 NavigationLink(destination:
                 CareerDetailsView(career: career)) {
+                    
+                    Image(career.field)
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 83, height: 60)
+                        .clipShape(Capsule())
+                        
+                        .overlay(Capsule()
+                        .stroke(Color.primary, lineWidth: 2))
                 
                     VStack(alignment: .leading) {
                         Text(career.field)
