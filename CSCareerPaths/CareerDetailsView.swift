@@ -14,21 +14,30 @@ struct CareerDetailsView: View {
     
     var body: some View {
         NavigationView {
-            List(career.job) { job in
-                VStack(alignment: .leading) {
-                    Text(job)
-                        .font(.headline)
+            
+            
+            VStack{
+                Image(career.field)
+                    .resizable()
+                    .scaledToFit()
                     
-                    Text("Avg $:")
-                        .foregroundColor(.secondary)
-                    
-                    Text("Short Description:")
-                    .foregroundColor(.secondary)
+                List(career.job) { job in
+                    VStack(alignment: .leading) {
+                        Text(job)
+                            .font(.headline)
                         
+                        Text("Avg $:")
+                            .foregroundColor(.secondary)
+                        
+                        Text("Short Description:")
+                        .foregroundColor(.secondary)
+                            
+                    }
+                    .layoutPriority(1)
                 }
-                .layoutPriority(1)
             }
-            .navigationBarTitle("\(career.field)", displayMode: .inline)
+                
+            .navigationBarTitle("Jobs in \(career.field)", displayMode: .inline)
         }
     }
 }

@@ -45,7 +45,7 @@ struct CareersView: View {
                     }
                 }
             }
-            .navigationBarTitle("Career Fields", displayMode: .inline)
+            .navigationBarTitle("Career Fields in Computer Science", displayMode: .inline)
         }
         
     }
