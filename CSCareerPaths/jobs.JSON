@@ -1,0 +1,277 @@
+[
+	{
+		"id": "dev-ops",
+		"name": "Dev-ops",
+		"average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Ben Koorengevel"
+	},
+	{
+		"id": "network-engineer",
+		"name": "Network Engineer",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Christian ter Maat"
+	
+	},
+	{
+		"id": "data-center-ops",
+		"name": "Data Center Ops",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "cable-&-router-technicians",
+		"name": "Cable & Router Technicians",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "database-adminstrators",
+		"name": "Database Adminstrators",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "technical-support-&-documentation",
+		"name": "Technical Support & Documentation",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "full-stack-engineers",
+		"name": "Full Stack Engineers",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "backend-application-development",
+		"name": "Backend Application Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "project-management",
+		"name": "Project Management",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "engineering-management",
+		"name": "Engineering Management",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "software-architects",
+		"name": "Software Architects",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "api-design",
+		"name": "API Design",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "security-&-pentesting",
+		"name": "Security & Pentesting",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "distributed-system-architects",
+		"name": "Distributed System Architects",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "Database Adminstrators",
+		"name": "Database Adminstrators",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "ux/ui-front-end-designers",
+		"name": "UX/UI Front End Designers",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "general-front-end-web-development",
+		"name": "General Front End Web Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id":  "single-page-app-development",
+		"name":  "Single-page App Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "quality-assurance-&-testing",
+		"name": "Quality Assurance & Testing",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "android-&-iOS",
+		"name": "Android & iOS",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "os",
+		"name": "Consumer-facing Windows Desktop, OS X Desktop, Linux App Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "enterprise-software-development",
+		"name": "Enterprise software development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id":  "it-administration-&-Admin-software-design",
+		"name":  "IT Administration & Admin Software Design",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "software-architecture",
+		"name": "Software Architecture",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "growth-hacking/web-scraping",
+		"name": "Growth hacking/web scraping",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "analytics",
+		"name": "Analytics",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "seo-&-sem",
+		"name": "SEO & SEM",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "general-marketing-development",
+		"name": "General Marketing Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "embedded-software",
+		"name": "Embedded Software",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "chip-design-&-architecture",
+		"name": "Chip Design & Architecture",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "game-development",
+		"name": "Game Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "graphics-software-development",
+		"name": "Graphics Software Development",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "3d-printing-&-machining-coding",
+		"name": "3D Printing & Machining Coding",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	},
+	{
+		"id": "cgi-&-animation",
+		"name": "CGI & Animation",
+        "average": "",
+		"short": "",
+		"description": "",
+		"imageCredit": "Fabrizio Conti"
+	}
+]
+
+
