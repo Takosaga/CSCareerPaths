@@ -9,14 +9,20 @@
 import Foundation
 
 struct Job: Codable, Identifiable {
+    struct Info: Codable {
+        let description: String
+        let imageCredit: String
+        let average: Int
+        let short: String
+    }
+
     let id: String
     let name: String
-    let description: String
-    let imageCredit: String
-    let average: Int
-    let short: String
+    let jobInfo: [Info]
+    
     
     static let allJobs: [Job] =
         Bundle.main.decode("jobs.JSON")
     static let example = allJobs[0]
 }
+
