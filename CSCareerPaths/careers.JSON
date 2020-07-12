@@ -4,10 +4,9 @@
         "field": "Infrastructure",
 		"description": "Infrastructure is the foundation or framework that supports a system or organization. In computing, information technology infrastructure is composed of physical and virtual resources that support the flow, storage, processing and analysis of data. Infrastructure may be centralized within a data center, or it may be decentralized and spread across several data centers that are either controlled by the organization or by a third party.",
 		"imageCredit": "Brett Sayles",
-        "jobs": 7,
+        "jobs": 6,
         "job": [
             "Sysadmin",
-            "Dev-ops",
             "Network Engineer",
             "Data Center Ops",
             "Cable & Router Technicians",
@@ -56,13 +55,12 @@
 		"description": "Squaw Valley Ski Resort in Olympic Valley, California, is one of the largest ski areas in the United States, and was the host site of the entire 1960 Winter Olympics. It is the second-largest ski area in Lake Tahoe after Heavenly, with 30 chairlifts, 3,600 acres (15 km2) and the only funitel in the U.S. Since Squaw Valley joined forces with Alpine Meadows in 2012, the resorts offer joint access to 6,200 acres (25 km2), 43 lifts and over 270 trails. The resort attracts approximately 600,000 skiers a year.\n\nLocated west of Lake Tahoe in the Sierra Nevada with a base of 6,200 ft (1,890 m) and a skiable 3,600 acres (15 km2) across six peaks, the resort tops out at 9,050 ft (2,760 m) at Granite Chief. Not far from Donner Pass, the area receives heavy maritime snowfall, frequently receiving 40 feet (12 m) or more in a winter.\n\nA scenic aerial tramway rises 2,000 ft (610 m) to High Camp at an elevation of 8,200 ft (2,500 m) above sea level. At High Camp, tourists have access to the facilities of Squaw Valley, including a pool, roller skating, dining, shopping, and high-altitude disc golf.",
 		"imageCredit": "Pixabay",
 		
-        "jobs": 5,
+        "jobs": 4,
 		
         "job": [
             "Android & iOS",
-            "Consumer-facing Windows Desktop, OS X Desktop, Linux App Development",
+            "Windows Desktop, macOS Desktop, Linux App Development",
             "Enterprise software development",
-            "IT Administration & Admin Software Design",
             "Software Architecture"
         ]
 	},

@@ -11,6 +11,7 @@ import SwiftUI
 struct CareerDetailsView: View {
     
     let career: Career
+    let joblist: [Job] = Bundle.main.decode("jobs.JSON")
     
     var body: some View {
         NavigationView {
@@ -25,7 +26,6 @@ struct CareerDetailsView: View {
                     VStack(alignment: .leading) {
                         Text(job)
                             .font(.headline)
-                        
                         Text("Avg $:")
                             .foregroundColor(.secondary)
                         
