@@ -23,17 +23,20 @@ struct CareerDetailsView: View {
                     .scaledToFit()
                     
                 List(self.joblist) { job in
-                    VStack(alignment: .leading) {
-                        Text(job.name)
-                            .font(.headline)
-                        Text("Avg $: \(job.average)")
-                            .foregroundColor(.secondary)
-                        
-                        Text("Short Description:")
-                        .foregroundColor(.secondary)
+                    
+                    NavigationLink(destination: JobsDetailsView(job: job)) {
+                        VStack(alignment: .leading) {
+                            Text(job.name)
+                                .font(.headline)
+                            Text("Avg $: \(job.average)")
+                                .foregroundColor(.secondary)
                             
+                            Text("Short Description:")
+                            .foregroundColor(.secondary)
+                                
+                        }
+                        .layoutPriority(1)
                     }
-                    .layoutPriority(1)
                 }
             }
                 
