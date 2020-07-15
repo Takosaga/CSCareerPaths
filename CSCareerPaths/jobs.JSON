@@ -2,386 +2,291 @@
 	{
 		"id": "sysadmin",
 		"name": "Sysadmin",
-		"jobInfo": [
-			{
-			"average": 82322,
-			"short": "",
-			"description": "",
-			"imageCredit": "Ben Koorengevel"
-			}
-		]
+        "average": 82322,
+        "short": "",
+        "description": "",
+        "imageCredit": "Ben Koorengevel"
+			
 	},
 	{
 		"id": "network-engineer",
 		"name": "Network Engineer",
-		"jobInfo": [
-			{
-			"average": 70200,
-			"short": "",
-			"description": "",
-			"imageCredit": "Christian ter Maat"
-			}
-		]
+        "average": 70200,
+        "short": "",
+        "description": "",
+        "imageCredit": "Christian ter Maat"
+		
 	},
 	{
 		"id": "data-center-ops",
 		"name": "Data Center Ops",
-		"jobInfo": [
-			{
-			"average": 88303,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 88303,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "cable-&-router-technicians",
 		"name": "Cable & Router Technicians",
-		"jobInfo": [
-			{
-			"average": 43052,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 43052,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "database-adminstrators",
 		"name": "Database Adminstrators",
-		"jobInfo": [
-			{
-			"average": 92714,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 92714,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "technical-support-&-documentation",
 		"name": "Technical Support & Documentation",
-		"jobInfo": [
-			{
-			"average": 37716,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 37716,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "full-stack-engineers",
 		"name": "Full Stack Engineers",
-		"jobInfo": [
-			{
-			"average": 96801,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 96801,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "backend-application-development",
 		"name": "Backend Application Development",
-		"jobInfo": [
-			{
-			"average": 116095,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 116095,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "project-management",
 		"name": "Project Management",
-		"jobInfo": [
-			{
-			"average": 123399,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 123399,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+        
 	},
 	{
 		"id": "engineering-management",
 		"name": "Engineering Management",
-		"jobInfo": [
-			{
-			"average": 130000,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 130000,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "software-architects",
 		"name": "Software Architects",
-		"jobInfo": [
-			{
-			"average": 138187,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 138187,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "api-design",
 		"name": "API Design",
-		"jobInfo": [
-			{
-			"average": 71192,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 71192,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "security-&-pentesting",
 		"name": "Security & Pentesting",
-		"jobInfo": [
-			{
-			"average": 84283,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 84283,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "distributed-system-architects",
 		"name": "Distributed System Architects",
-		"jobInfo": [
-			{
-			"average": 77768,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 77768,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+        
 	},
 	{
 		"id": "ux/ui-front-end-designers",
 		"name": "UX/UI Front End Designers",
-		"jobInfo": [
-			{
-			"average": 85277,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 85277,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "general-front-end-web-development",
 		"name": "General Front End Web Development",
-		"jobInfo": [
-			{
-			"average": 76929,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 76929,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id":  "single-page-app-development",
 		"name":  "Single-page App Development",
-		"jobInfo": [
-			{
-			"average": 76929,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 76929,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "quality-assurance-&-testing",
 		"name": "Quality Assurance & Testing",
-		"jobInfo": [
-			{
-			"average": 56616,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 56616,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "android-&-iOS",
 		"name": "Android & iOS",
-		"jobInfo": [
-			{
-			"average": 96016,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 96016,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "os",
 		"name": "Windows Desktop, macOS Desktop, Linux App Development",
-		"jobInfo": [
-			{
-			"average": 76526,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 76526,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+    
 	},
 	{
 		"id": "enterprise-software-development",
 		"name": "Enterprise software development",
-		"jobInfo": [
-			{
-			"average": 71960,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 71960,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+    
 	},
 	{
 		"id": "software-architecture",
 		"name": "Software Architecture",
-		"jobInfo": [
-			{
-			"average": 113757,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 113757,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "growth-hacking/web-scraping",
 		"name": "Growth hacking/web scraping",
-		"jobInfo": [
-			{
-			"average": 88989,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 88989,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "analytics",
 		"name": "Analytics",
-		"jobInfo": [
-			{
-			"average": 68367,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 68367,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+        
 	},
 	{
 		"id": "seo-&-sem",
 		"name": "SEO & SEM",
-		"jobInfo": [
-			{
-			"average": 49589,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 49589,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+    
 	},
 	{
 		"id": "general-marketing-development",
 		"name": "General Marketing Development",
-		"jobInfo": [
-			{
-			"average": 58165,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 58165,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "embedded-software",
 		"name": "Embedded Software",
-		"jobInfo": [
-			{
-			"average": 82658,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 82658,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+        
 	},
 	{
 		"id": "chip-design-&-architecture",
 		"name": "Chip Design & Architecture",
-		"jobInfo": [
-			{
-			"average": 74298,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 74298,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "game-development",
 		"name": "Game Development",
-		"jobInfo": [
-			{
-			"average": 50923,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"	
-			}
-		]
+        "average": 50923,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "graphics-software-development",
 		"name": "Graphics Software Development",
-		"jobInfo": [
-			{
-			"average": 99951,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"		
-			}
-		]
+        "average": 99951,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+		
 	},
 	{
 		"id": "3d-printing-&-machining-coding",
 		"name": "3D Printing & Machining Coding",
-		"jobInfo": [
-			{
-			"average": 72323,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 72323,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
 	},
 	{
 		"id": "cgi-&-animation",
 		"name": "CGI & Animation",
-		"jobInfo": [
-			{
-			"average": 69168,
-			"short": "",
-			"description": "",
-			"imageCredit": "Fabrizio Conti"
-			}
-		]
+        "average": 69168,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+		
 	}
 ]
 

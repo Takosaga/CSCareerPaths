@@ -11,7 +11,7 @@ import SwiftUI
 struct CareerDetailsView: View {
     
     let career: Career
-    let joblist: [Job] = Bundle.main.decode("jobs.JSON")
+    let joblist: [Job]
     
     var body: some View {
         NavigationView {
@@ -46,7 +46,8 @@ extension String: Identifiable {
 }
 
 struct CareerDetailsView_Previews: PreviewProvider {
+    static let joblist: [Job] = Bundle.main.decode("jobs.JSON")
     static var previews: some View {
-        CareerDetailsView(career: Career.example)
+        CareerDetailsView(career: Career.example, joblist: joblist)
     }
 }

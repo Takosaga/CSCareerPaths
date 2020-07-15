@@ -11,12 +11,13 @@ import SwiftUI
 struct CareersView: View {
     @ObservedObject var favorites = Favorites()
     let careers: [Career] = Bundle.main.decode("careers.JSON")
+    let joblist: [Job] = Bundle.main.decode("jobs.JSON")
     
     var body: some View {
         NavigationView {
             List(careers) { career in
                 NavigationLink(destination:
-                CareerDetailsView(career: career)) {
+                CareerDetailsView(career: career, joblist: self.joblist)) {
                     
                     Image(career.field)
                         .resizable()
