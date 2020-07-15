@@ -22,11 +22,11 @@ struct CareerDetailsView: View {
                     .resizable()
                     .scaledToFit()
                     
-                List(career.job) { job in
+                List(self.joblist) { job in
                     VStack(alignment: .leading) {
-                        Text(job)
+                        Text(job.name)
                             .font(.headline)
-                        Text("Avg $:")
+                        Text("Avg $: \(job.average)")
                             .foregroundColor(.secondary)
                         
                         Text("Short Description:")
@@ -39,6 +39,22 @@ struct CareerDetailsView: View {
                 
             .navigationBarTitle("Jobs in \(career.field)", displayMode: .inline)
         }
+        
+    }
+    init(career: Career, joblist: [Job]) {
+        self.career = career
+        
+        var matches = [Job]()
+        
+        for member in career.job {
+            if let match = joblist.first(where: {$0.name == member}) {
+                matches.append(match)
+            } else {
+                fatalError("Missing \(member)")
+            }
+        }
+        
+        self.joblist = matches
     }
 }
 extension String: Identifiable {

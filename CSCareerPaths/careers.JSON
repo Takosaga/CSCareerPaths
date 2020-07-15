@@ -71,16 +71,15 @@
 		"description": "Snowbird resort is a year-round ski and summer resort located in the heart of the Wasatch National Forest on the eastern border of the Salt Lake City suburb of Sandy. It is 29 miles (47 km) from Salt Lake City International Airport, 24 miles (39 km) from downtown Salt Lake City and 4 miles (6 km) east of the suburb of Sandy. The resort first opened in December 1971.\n\nSnowbird shares Little Cottonwood Canyon with Alta Ski Area to the east, just up the canyon over a ridge that separates the two. Beginning winter 2002, the two resorts offer a joint day pass and a joint season ticket allowing full access all of the terrain on both mountains: 26 ski lifts and tows and a skiable area of 4,700 acres (19 km2).\n\nThe collaboration coincided with the opening of a new lift in Mineral Basin, a large bowl owned by Snowbird on the back of Snowbird's Hidden Peak and Alta's Sugarloaf mountains that had been skiable within the resort since 1999. The installation of Baldy Express in 2002 allowed access to Alta from the Basin. Other access points between the two resorts exist as well.",
 		"imageCredit": "Maarten Duineveld",
 		
-        "jobs": 7,
+        "jobs": 6,
 		
         "job": [
             "Scientific Research",
-            "Pure Compsci/Pure Math Research ",
+            "Pure Compsci/Pure Math Research",
             "Scientific Software Development",
             "Data Science",
             "Machine Learning",
-            "Compiler & Language Design",
-            "OS Design"
+            "Compiler & Language Design"
         ]
 	},
 	{

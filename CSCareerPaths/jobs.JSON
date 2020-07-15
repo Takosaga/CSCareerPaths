@@ -207,6 +207,60 @@
 			
 	},
 	{
+		"id": "scientific-research",
+		"name": "Scientific Research",
+        "average": 79724,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
+		"id": "pure-compsci/pure-math-research",
+		"name": "Pure Compsci/Pure Math Research",
+        "average": 92046,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
+		"id": "scientific-software-development",
+		"name": "Scientific Software Development",
+        "average": 92046,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
+		"id": "data-science",
+		"name": "Data Science",
+        "average": 113309,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
+		"id": "machine-learning",
+		"name": "Machine Learning",
+        "average": 114121,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
+		"id": "compiler-&-language-design",
+		"name": "Compiler & Language Design",
+        "average": 91463,
+        "short": "",
+        "description": "",
+        "imageCredit": "Fabrizio Conti"
+			
+	},
+	{
 		"id": "analytics",
 		"name": "Analytics",
         "average": 68367,
