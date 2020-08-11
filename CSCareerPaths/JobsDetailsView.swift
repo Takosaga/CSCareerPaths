@@ -14,7 +14,7 @@ struct JobsDetailsView: View {
     
     var body: some View {
         NavigationView {
-            Text("Job Info")
+            Text("\(job.description)")
             
             .navigationBarTitle("\(job.name)", displayMode: .inline)
         }

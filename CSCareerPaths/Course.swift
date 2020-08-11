@@ -13,6 +13,7 @@ struct Course: Codable, Identifiable {
     let name: String
     let level: String
     let description: String
+    let skills: String
     let imageCredit: String
    
     

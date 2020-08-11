@@ -3,8 +3,8 @@
 		"id": "sysadmin",
 		"name": "Sysadmin",
         "average": 82322,
-        "short": "",
-        "description": "",
+        "short": "test 37",
+        "description": "test 1",
         "imageCredit": "Ben Koorengevel"
 			
 	},
@@ -12,8 +12,8 @@
 		"id": "network-engineer",
 		"name": "Network Engineer",
         "average": 70200,
-        "short": "",
-        "description": "",
+        "short": "test 36",
+        "description": "test 2",
         "imageCredit": "Christian ter Maat"
 		
 	},
@@ -21,8 +21,8 @@
 		"id": "data-center-ops",
 		"name": "Data Center Ops",
         "average": 88303,
-        "short": "",
-        "description": "",
+        "short": "test 35",
+        "description": "test 3",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -30,8 +30,8 @@
 		"id": "cable-&-router-technicians",
 		"name": "Cable & Router Technicians",
         "average": 43052,
-        "short": "",
-        "description": "",
+        "short": "test 34",
+        "description": "test 4",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -39,8 +39,8 @@
 		"id": "database-adminstrators",
 		"name": "Database Adminstrators",
         "average": 92714,
-        "short": "",
-        "description": "",
+        "short": "test 33",
+        "description": "test 5",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -48,8 +48,8 @@
 		"id": "technical-support-&-documentation",
 		"name": "Technical Support & Documentation",
         "average": 37716,
-        "short": "",
-        "description": "",
+        "short": "test 32",
+        "description": "test 6",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -57,8 +57,8 @@
 		"id": "full-stack-engineers",
 		"name": "Full Stack Engineers",
         "average": 96801,
-        "short": "",
-        "description": "",
+        "short": "test 31",
+        "description": "test 7",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -66,8 +66,8 @@
 		"id": "backend-application-development",
 		"name": "Backend Application Development",
         "average": 116095,
-        "short": "",
-        "description": "",
+        "short": "test 30",
+        "description": "test 8",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -75,8 +75,8 @@
 		"id": "project-management",
 		"name": "Project Management",
         "average": 123399,
-        "short": "",
-        "description": "",
+        "short": "test 29",
+        "description": "test 9",
         "imageCredit": "Fabrizio Conti"
         
 	},
@@ -84,8 +84,8 @@
 		"id": "engineering-management",
 		"name": "Engineering Management",
         "average": 130000,
-        "short": "",
-        "description": "",
+        "short": "test 28",
+        "description": "test 10",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -93,8 +93,8 @@
 		"id": "software-architects",
 		"name": "Software Architects",
         "average": 138187,
-        "short": "",
-        "description": "",
+        "short": "test 27",
+        "description": "test 11",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -102,8 +102,8 @@
 		"id": "api-design",
 		"name": "API Design",
         "average": 71192,
-        "short": "",
-        "description": "",
+        "short": "test 26",
+        "description": "test 12",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -111,8 +111,8 @@
 		"id": "security-&-pentesting",
 		"name": "Security & Pentesting",
         "average": 84283,
-        "short": "",
-        "description": "",
+        "short": "test 25",
+        "description": "test 13",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -120,8 +120,8 @@
 		"id": "distributed-system-architects",
 		"name": "Distributed System Architects",
         "average": 77768,
-        "short": "",
-        "description": "",
+        "short": "test 24",
+        "description": "test 14",
         "imageCredit": "Fabrizio Conti"
         
 	},
@@ -129,8 +129,8 @@
 		"id": "ux/ui-front-end-designers",
 		"name": "UX/UI Front End Designers",
         "average": 85277,
-        "short": "",
-        "description": "",
+        "short": "test 23",
+        "description": "test 15",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -138,8 +138,8 @@
 		"id": "general-front-end-web-development",
 		"name": "General Front End Web Development",
         "average": 76929,
-        "short": "",
-        "description": "",
+        "short": "test 22",
+        "description": "test 16",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -147,8 +147,8 @@
 		"id":  "single-page-app-development",
 		"name":  "Single-page App Development",
         "average": 76929,
-        "short": "",
-        "description": "",
+        "short": "test 21",
+        "description": "test 17",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -156,8 +156,8 @@
 		"id": "quality-assurance-&-testing",
 		"name": "Quality Assurance & Testing",
         "average": 56616,
-        "short": "",
-        "description": "",
+        "short": "test 20",
+        "description": "test 18",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -165,8 +165,8 @@
 		"id": "android-&-iOS",
 		"name": "Android & iOS",
         "average": 96016,
-        "short": "",
-        "description": "",
+        "short": "test 20",
+        "description": "test 19",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -174,8 +174,8 @@
 		"id": "os",
 		"name": "Windows Desktop, macOS Desktop, Linux App Development",
         "average": 76526,
-        "short": "",
-        "description": "",
+        "short": "test 19",
+        "description": "test 20",
         "imageCredit": "Fabrizio Conti"
     
 	},
@@ -183,8 +183,8 @@
 		"id": "enterprise-software-development",
 		"name": "Enterprise software development",
         "average": 71960,
-        "short": "",
-        "description": "",
+        "short": "test 18",
+        "description": "test 21",
         "imageCredit": "Fabrizio Conti"
     
 	},
@@ -192,8 +192,8 @@
 		"id": "software-architecture",
 		"name": "Software Architecture",
         "average": 113757,
-        "short": "",
-        "description": "",
+        "short": "test 17",
+        "description": "test 22",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -201,8 +201,8 @@
 		"id": "growth-hacking/web-scraping",
 		"name": "Growth hacking/web scraping",
         "average": 88989,
-        "short": "",
-        "description": "",
+        "short": "test 16",
+        "description": "test 23",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -210,8 +210,8 @@
 		"id": "scientific-research",
 		"name": "Scientific Research",
         "average": 79724,
-        "short": "",
-        "description": "",
+        "short": "test 15",
+        "description": "test 24",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -219,8 +219,8 @@
 		"id": "pure-compsci/pure-math-research",
 		"name": "Pure Compsci/Pure Math Research",
         "average": 92046,
-        "short": "",
-        "description": "",
+        "short": "test 14",
+        "description": "test 25",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -228,8 +228,8 @@
 		"id": "scientific-software-development",
 		"name": "Scientific Software Development",
         "average": 92046,
-        "short": "",
-        "description": "",
+        "short": "test 13",
+        "description": "test 26",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -237,8 +237,8 @@
 		"id": "data-science",
 		"name": "Data Science",
         "average": 113309,
-        "short": "",
-        "description": "",
+        "short": "test 12",
+        "description": "test 27",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -246,8 +246,8 @@
 		"id": "machine-learning",
 		"name": "Machine Learning",
         "average": 114121,
-        "short": "",
-        "description": "",
+        "short": "test 11",
+        "description": "test 28",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -255,8 +255,8 @@
 		"id": "compiler-&-language-design",
 		"name": "Compiler & Language Design",
         "average": 91463,
-        "short": "",
-        "description": "",
+        "short": "test 10",
+        "description": "test 29",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -264,8 +264,8 @@
 		"id": "analytics",
 		"name": "Analytics",
         "average": 68367,
-        "short": "",
-        "description": "",
+        "short": "test 9",
+        "description": "test 30",
         "imageCredit": "Fabrizio Conti"
         
 	},
@@ -273,8 +273,8 @@
 		"id": "seo-&-sem",
 		"name": "SEO & SEM",
         "average": 49589,
-        "short": "",
-        "description": "",
+        "short": "test 8",
+        "description": "test 31",
         "imageCredit": "Fabrizio Conti"
     
 	},
@@ -282,8 +282,8 @@
 		"id": "general-marketing-development",
 		"name": "General Marketing Development",
         "average": 58165,
-        "short": "",
-        "description": "",
+        "short": "test 7",
+        "description": "test 32",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -291,8 +291,8 @@
 		"id": "embedded-software",
 		"name": "Embedded Software",
         "average": 82658,
-        "short": "",
-        "description": "",
+        "short": "test 6",
+        "description": "test 33",
         "imageCredit": "Fabrizio Conti"
         
 	},
@@ -300,8 +300,8 @@
 		"id": "chip-design-&-architecture",
 		"name": "Chip Design & Architecture",
         "average": 74298,
-        "short": "",
-        "description": "",
+        "short": "test 5",
+        "description": "test 34",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -309,8 +309,8 @@
 		"id": "game-development",
 		"name": "Game Development",
         "average": 50923,
-        "short": "",
-        "description": "",
+        "short": "test 4",
+        "description": "test 35",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -318,8 +318,8 @@
 		"id": "graphics-software-development",
 		"name": "Graphics Software Development",
         "average": 99951,
-        "short": "",
-        "description": "",
+        "short": "test 3",
+        "description": "test 36",
         "imageCredit": "Fabrizio Conti"
 		
 	},
@@ -327,8 +327,8 @@
 		"id": "3d-printing-&-machining-coding",
 		"name": "3D Printing & Machining Coding",
         "average": 72323,
-        "short": "",
-        "description": "",
+        "short": "test 2",
+        "description": "test 37",
         "imageCredit": "Fabrizio Conti"
 			
 	},
@@ -336,8 +336,8 @@
 		"id": "cgi-&-animation",
 		"name": "CGI & Animation",
         "average": 69168,
-        "short": "",
-        "description": "",
+        "short": "test 1",
+        "description": "test 38",
         "imageCredit": "Fabrizio Conti"
 			
 		

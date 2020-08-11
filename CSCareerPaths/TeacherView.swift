@@ -10,7 +10,10 @@ import SwiftUI
 
 struct TeacherView: View {
     var body: some View {
-        Text("About Teacher")
+        NavigationView {
+            Text("About Teacher")
+        .navigationBarTitle("Teacher", displayMode: .inline)
+        }
     }
 }
 

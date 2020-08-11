@@ -14,7 +14,22 @@ struct CourseDetailsView: View {
     
     var body: some View {
         NavigationView {
-            Text("Course Info")
+            VStack(alignment: .leading) {
+                
+                Text("Course Description")
+                    .padding()
+                    .font(.headline)
+                
+                Text("\(course.description)")
+                    .padding()
+                    .foregroundColor(.secondary)
+                
+                Text("Skills You'll Learn")
+                    .padding()
+                    .font(.headline)
+                
+                Spacer()
+            }
                 
                 .navigationBarTitle("\(course.name)", displayMode: .inline)
         }

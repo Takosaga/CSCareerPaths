@@ -31,8 +31,8 @@ struct CareerDetailsView: View {
                             Text("Avg $: \(job.average)")
                                 .foregroundColor(.secondary)
                             
-                            Text("Short Description:")
-                            .foregroundColor(.secondary)
+                            Text("Short Description: \(job.short)")
+                                .foregroundColor(.secondary)
                                 
                         }
                         .layoutPriority(1)
