@@ -9,14 +9,13 @@
 import SwiftUI
 
 struct CareerDetailsView: View {
+    @ObservedObject var favorites = Favorites()
     
     let career: Career
     let joblist: [Job]
     
     var body: some View {
         NavigationView {
-            
-            
             VStack{
                 Image(career.field)
                     .resizable()
@@ -36,12 +35,22 @@ struct CareerDetailsView: View {
                                 
                         }
                         .layoutPriority(1)
+                        
+                        if self.favorites.contains(job) {
+                            Spacer()
+                            Image(systemName: "heart.fill")
+                                .accessibility(label: Text("This is a favorite job"))
+                                .foregroundColor(.red)
+                        }
+                      
                     }
                 }
             }
                 
             .navigationBarTitle("Jobs in \(career.field)", displayMode: .inline)
         }
+        
+        .environmentObject(favorites)
         
     }
     init(career: Career, joblist: [Job]) {

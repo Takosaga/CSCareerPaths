@@ -14,7 +14,7 @@ struct CourseDetailsView: View {
     
     var body: some View {
         NavigationView {
-            VStack(alignment: .leading) {
+            VStack{
                 
                 Text("Course Description")
                     .padding()

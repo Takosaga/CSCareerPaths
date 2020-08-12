@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct CareersView: View {
-    @ObservedObject var favorites = Favorites()
+    
     let careers: [Career] = Bundle.main.decode("careers.JSON")
     let joblist: [Job] = Bundle.main.decode("jobs.JSON")
     
@@ -38,12 +38,6 @@ struct CareersView: View {
                     }
                     .layoutPriority(1)
                     
-                    if self.favorites.contains(career) {
-                        Spacer()
-                        Image(systemName: "heart.fill")
-                            .accessibility(label: Text("This is a favorite career"))
-                            .foregroundColor(.red)
-                    }
                 }
             }
             .navigationBarTitle("Career Fields in Computer Science", displayMode: .inline)

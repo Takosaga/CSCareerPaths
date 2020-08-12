@@ -9,7 +9,7 @@
 import SwiftUI
 
 class Favorites: ObservableObject {
-    private var careers: Set<String>
+    private var jobs: Set<String>
     
     private let saveKey = "Favorites"
     
@@ -18,31 +18,31 @@ class Favorites: ObservableObject {
         
         if let data = UserDefaults.standard.data(forKey: self.saveKey) {
             if let decoded = try? JSONDecoder().decode(Set<String>.self, from: data) {
-                self.careers = decoded
+                self.jobs = decoded
                 return
             }
         }
-        self.careers = []
+        self.jobs = []
     }
     
-    func contains(_ career: Career) -> Bool {
-        careers.contains(career.id)
+    func contains(_ job: Job) -> Bool {
+        jobs.contains(job.id)
     }
     
-    func add(_ career: Career) {
+    func add(_ job: Job) {
         objectWillChange.send()
-        careers.insert(career.id)
+        jobs.insert(job.id)
         save()
     }
     
-    func remove(_ career: Career) {
+    func remove(_ job: Job) {
         objectWillChange.send()
-        careers.remove(career.id)
+        jobs.remove(job.id)
         save()
     }
     
     func save() {
-        if let encode = try? JSONEncoder().encode(careers) {
+        if let encode = try? JSONEncoder().encode(jobs) {
             UserDefaults.standard.set(encode, forKey: self.saveKey)
         }
     }
