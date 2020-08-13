@@ -20,6 +20,9 @@ struct CareerDetailsView: View {
                 Image(career.field)
                     .resizable()
                     .scaledToFit()
+                
+                Text("\(career.description)")
+                    .foregroundColor(.secondary)
                     
                 List(self.joblist) { job in
                     

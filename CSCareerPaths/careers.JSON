@@ -2,7 +2,7 @@
 	{
 		"id": "infra",
         "field": "Infrastructure",
-		"description": "Infrastructure is the foundation or framework that supports a system or organization. In computing, information technology infrastructure is composed of physical and virtual resources that support the flow, storage, processing and analysis of data. Infrastructure may be centralized within a data center, or it may be decentralized and spread across several data centers that are either controlled by the organization or by a third party.",
+		"description": "Infrastructure is the foundation or framework that supports a system or organization.",
 		"imageCredit": "Brett Sayles",
         "jobs": 6,
         "job": [
@@ -17,7 +17,7 @@
 	{
 		"id": "back",
         "field": "Backend",
-		"description": "Sankt Anton am Arlberg, commonly referred to as St. Anton, is a village and ski resort in the Austrian state of Tyrol. It lies in the Tyrolean Alps, with aerial tramways and chairlifts up to 2,811 m (9,222 ft), yielding a vertical drop of 1,507 m (4,944 ft). It is also a popular summer resort among hikers, trekkers and mountaineers.\n\nSkiing has a long history in St. Anton: ski instructors from the area emigrated to the US in the 1930s, helping to popularise the sport. St. Anton was the host of the Alpine World Ski Championships in 2001. St. Anton is frequently listed as one of the world's top skiing resorts both in terms of skiing available and après-ski entertainment.",
+		"description": "In the computer world, backend refers to any part of a website or software program that users do not see.",
 		"imageCredit": "luis gomes",
         "jobs": 9,
         "job": [
@@ -35,7 +35,7 @@
 	{
 		"id": "front",
         "field": "Frontend",
-		"description": "Vail Ski Resort is a ski resort located near the town of Vail in Eagle County, Colorado. At 5,289 acres (8.3 sq mi; 21.4 km2), it is the third-largest single-mountain ski resort in the United States, behind Big Sky and Park City, featuring seven bowls and intermediate gladed terrain in Blue Sky Basin.\n\nVail opened in 1962 and is one of 19 mountain resorts owned and operated by Vail Resorts, which also operates three other nearby ski resorts (Beaver Creek, Breckenridge, and Keystone).\n\nVail Mountain has three sections: the Front-Side, Blue Sky Basin, and the Back Bowls. Most of the resort is wide open terrain with all types of trails. There are cruising runs accessible from most front side and Blue Sky Basin lifts, as well as the wide open Back Bowls, glades, and chutes.",
+		"description": "The frontend refers to a program's or website's user interface.",
 		"imageCredit": "lakexyde",
 		
         "jobs": 5,
@@ -52,7 +52,7 @@
 		"id": "native",
         "field": "Native",
 		
-		"description": "Squaw Valley Ski Resort in Olympic Valley, California, is one of the largest ski areas in the United States, and was the host site of the entire 1960 Winter Olympics. It is the second-largest ski area in Lake Tahoe after Heavenly, with 30 chairlifts, 3,600 acres (15 km2) and the only funitel in the U.S. Since Squaw Valley joined forces with Alpine Meadows in 2012, the resorts offer joint access to 6,200 acres (25 km2), 43 lifts and over 270 trails. The resort attracts approximately 600,000 skiers a year.\n\nLocated west of Lake Tahoe in the Sierra Nevada with a base of 6,200 ft (1,890 m) and a skiable 3,600 acres (15 km2) across six peaks, the resort tops out at 9,050 ft (2,760 m) at Granite Chief. Not far from Donner Pass, the area receives heavy maritime snowfall, frequently receiving 40 feet (12 m) or more in a winter.\n\nA scenic aerial tramway rises 2,000 ft (610 m) to High Camp at an elevation of 8,200 ft (2,500 m) above sea level. At High Camp, tourists have access to the facilities of Squaw Valley, including a pool, roller skating, dining, shopping, and high-altitude disc golf.",
+		"description": "Native means developed/written in a language that compiles into machine code optimised for a specific system.",
 		"imageCredit": "Pixabay",
 		
         "jobs": 4,
@@ -68,7 +68,7 @@
 		"id": "science",
         "field": "Science and Theory",
 		
-		"description": "Snowbird resort is a year-round ski and summer resort located in the heart of the Wasatch National Forest on the eastern border of the Salt Lake City suburb of Sandy. It is 29 miles (47 km) from Salt Lake City International Airport, 24 miles (39 km) from downtown Salt Lake City and 4 miles (6 km) east of the suburb of Sandy. The resort first opened in December 1971.\n\nSnowbird shares Little Cottonwood Canyon with Alta Ski Area to the east, just up the canyon over a ridge that separates the two. Beginning winter 2002, the two resorts offer a joint day pass and a joint season ticket allowing full access all of the terrain on both mountains: 26 ski lifts and tows and a skiable area of 4,700 acres (19 km2).\n\nThe collaboration coincided with the opening of a new lift in Mineral Basin, a large bowl owned by Snowbird on the back of Snowbird's Hidden Peak and Alta's Sugarloaf mountains that had been skiable within the resort since 1999. The installation of Baldy Express in 2002 allowed access to Alta from the Basin. Other access points between the two resorts exist as well.",
+		"description": "The theory of computing is the study of efficient computation, models of computational processes, and their limits.",
 		"imageCredit": "Maarten Duineveld",
 		
         "jobs": 6,
@@ -86,7 +86,7 @@
 		"id": "market",
         "field": "Marketing",
 		
-		"description": "Deer Valley is an alpine ski resort in the Wasatch Range, located 36 miles (58 km) east of Salt Lake City, in Park City, Utah, United States. The resort, known for its upscale amenities, is consistently ranked among the top ski resorts in North America.\n\nDeer Valley was a venue site during 2002 Winter Olympics, hosting the freestyle moguls, aerial, and alpine slalom events. It also regularly hosts competitions for the International Ski Federation.",
+		"description": "Marketing professionals use computer technology to plan, manage and monitor campaigns.",
 		"imageCredit": "Carlos Muza",
 		
         "jobs": 4,
@@ -102,7 +102,7 @@
 		"id": "hardware",
         "field": "Hardware and Graphics",
 
-		"description": "La Plagne is a French ski area in the alpine valley of the Tarentaise (Savoie). Since 2003, La Plagne and the neighbouring resort of Les Arcs form Paradiski's ski area. It is currently owned by Compagnie des Alpes.\n\nLa Plagne is the most popular ski resort in the world with more than 2.5 million visitors a season on average.",
+		"description": "Computer hardware includes the physical parts of a computer and graphics which studies methods for digitally synthesizing and manipulating visual content.",
 		"imageCredit": "Miguel Á. Padriñán",
 		
         "jobs": 6,
