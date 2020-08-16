@@ -14,21 +14,27 @@ struct CourseDetailsView: View {
     
     var body: some View {
         NavigationView {
-            VStack{
-                
-                Text("Course Description")
-                    .padding()
-                    .font(.headline)
-                
-                Text("\(course.description)")
-                    .padding()
-                    .foregroundColor(.secondary)
-                
-                Text("Skills You'll Learn")
-                    .padding()
-                    .font(.headline)
-                
-                Spacer()
+            ScrollView(.vertical){
+                VStack{
+                    
+                    Text("Course Description")
+                        .padding()
+                        .font(.headline)
+                    
+                    Text("\(course.description)")
+                        .padding()
+                        .foregroundColor(.secondary)
+                    
+                    Text("Skills You'll Learn")
+                        .padding()
+                        .font(.headline)
+                    
+                    Text("\(course.skills)")
+                        .padding()
+                        .foregroundColor(.secondary)
+                    
+                    Spacer()
+                }
             }
                 
                 .navigationBarTitle("\(course.name)", displayMode: .inline)

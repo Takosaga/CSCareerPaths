@@ -4,7 +4,7 @@
 		"name": "Computer Science 1",
         "level": "Freshman & Sophomore",
 		"description": "Designed to foster students’ creativity and innovation by presenting opportunities to design, implement and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor and with various electronic communities to solve the problems presented throughout the course. ",
-        "skills": "",
+        "skills": "✅ Develops product and generates new understandings by extending existing knowledge \n\n✅ communicates and collaborates with peers to contribute to his or her own learning and the learning of others \n\n✅ Locates, analyze, process, and organize data \n\n✅ Use appropriate strategies to analyze problems and design algorithms \n\n✅ Explore and understand safety, legal, cultural, and societal issues relating to the use of technology and information \n\n✅ Understand technology concepts, systems, and operations as they apply to computer science\n\n",
 		"imageCredit": "Ben Koorengevel"
 	},
 	{
@@ -12,7 +12,7 @@
 		"name": "CS Principles AP",
         "level": "Sophomore & Junior",
 		"description": "Learn the principles that underlie the science of computing and develop the thinking skills that computer scientists use. You’ll work on your own and as part of a team to creatively address real-world issues using the tools and processes of computation.",
-        "skills": "",
+        "skills": "✅ Making connections between concepts in computing \n\n✅ Applying abstractions in computation and modeling \n\n✅ Communicating ideas about technology and computation \n\n✅ Designing a program to solve a problem or complete a task \n\n✅ Analyzing computational work \n\n✅ Working collaboratively to solve problems \n\n",
 		"imageCredit": "Christian ter Maat"
 	
 	},
@@ -21,7 +21,7 @@
 		"name": "Computer Science A AP",
         "level": "Junior & Senior",
 		"description": "Get familiar with the concepts and tools of computer science as you learn a subset of the Java programming language. You'll do hands-on work to design, write, and test computer programs that solve problems or accomplish tasks.",
-        "skills": "",
+        "skills": "✅ Designing a program, developing the algorithms it needs, and writing code to implement them \n\n✅ Documenting and explaining how program code works \n\n✅ Testing program code and correcting errors \n\n",
 		"imageCredit": "Fabrizio Conti"
 	}
 ]
