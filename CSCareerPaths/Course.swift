@@ -15,6 +15,7 @@ struct Course: Codable, Identifiable {
     let description: String
     let skills: String
     let imageCredit: String
+    let youtube: String
    
     
     static let allCourses: [Course] =

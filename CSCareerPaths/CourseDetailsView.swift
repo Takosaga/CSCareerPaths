@@ -19,7 +19,7 @@ struct CourseDetailsView: View {
                 VStack{
                     
                     if #available(iOS 14.0, *) {
-                        VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!)
+                        VideoPlayer(player: AVPlayer(url:  URL(string: course.youtube)!)
                         )
                     }
                     
