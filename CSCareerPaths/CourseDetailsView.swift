@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import AVKit
 
 struct CourseDetailsView: View {
     
@@ -16,6 +17,11 @@ struct CourseDetailsView: View {
         NavigationView {
             ScrollView(.vertical){
                 VStack{
+                    
+                    if #available(iOS 14.0, *) {
+                        VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!)
+                        )
+                    }
                     
                     Text("Course Description")
                         .padding()

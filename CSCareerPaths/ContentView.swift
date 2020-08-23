@@ -14,7 +14,7 @@ struct ContentView: View {
             
             CareersView()
                 .tabItem {
-                    Image(systemName: "mappin.and.ellipse")
+                    Image(systemName: "list.bullet.rectangle")
                     Text("Careers")
                 }
             
