@@ -19,6 +19,7 @@ struct CareerDetailsView: View {
             VStack{
                 Image(career.field)
                     .resizable()
+                    .frame(width: 250, height: 250)
                     .scaledToFit()
                 
                 Text("\(career.description)")
@@ -28,19 +29,23 @@ struct CareerDetailsView: View {
                     
                     NavigationLink(destination: JobsDetailsView(job: job)) {
                         VStack(alignment: .leading) {
+                            
                             Text(job.name)
                                 .font(.headline)
-                            Text("Avg $: \(job.average)")
-                                .foregroundColor(.secondary)
                             
-                            Text("Short Description: \(job.short)")
-                                .foregroundColor(.secondary)
+                            Text("Avg $: ").bold() + Text("\(job.average)").foregroundColor(.green)
+                            
+                            
+                            Text("About: ").bold() + Text("\(job.short)")
+                                .foregroundColor(.blue)
+                            
+                            
                                 
                         }
                         .layoutPriority(1)
                         
                         if self.favorites.contains(job) {
-                            Spacer()
+                            //Spacer()
                             Image(systemName: "heart.fill")
                                 .accessibility(label: Text("This is a favorite job"))
                                 .foregroundColor(.red)
