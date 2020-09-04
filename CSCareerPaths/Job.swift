@@ -12,7 +12,7 @@ struct Job: Codable, Identifiable {
     let id: String
     let name: String
     let description: String
-    let imageCredit: String
+    let youTube: String
     let average: Int
     let short: String
 

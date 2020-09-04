@@ -5,160 +5,160 @@
         "average": 82322,
         "short": "In charge of daily tasks such as configuration of computers and managing IT staff",
         "description": "test 1",
-        "imageCredit": "Ben Koorengevel"
+        "youTube": "Ben Koorengevel"
 			
 	},
 	{
 		"id": "network-engineer",
 		"name": "Network Engineer",
         "average": 70200,
-        "short": "test 36",
+        "short": "Design system configurations and manage installation of networks",
         "description": "test 2",
-        "imageCredit": "Christian ter Maat"
+        "youTube": "Christian ter Maat"
 		
 	},
 	{
 		"id": "data-center-ops",
 		"name": "Data Center Ops",
         "average": 88303,
-        "short": "test 35",
+        "short": "Supervise systems and maintain them",
         "description": "test 3",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "cable-&-router-technicians",
 		"name": "Cable & Router Technicians",
         "average": 43052,
-        "short": "test 34",
+        "short": "Install voice and cable systems at local areas",
         "description": "test 4",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
 		"id": "database-adminstrators",
 		"name": "Database Adminstrators",
         "average": 92714,
-        "short": "test 33",
+        "short": "Ensures an optimal database with security",
         "description": "test 5",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "technical-support-&-documentation",
 		"name": "Technical Support & Documentation",
         "average": 37716,
-        "short": "test 32",
+        "short": "In charge of handling the user manual for specific software and hardware",
         "description": "test 6",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "full-stack-engineers",
 		"name": "Full Stack Engineers",
         "average": 96801,
-        "short": "test 31",
+        "short": "Works on both front and back-ends of a website or application",
         "description": "test 7",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "backend-application-development",
 		"name": "Backend Application Development",
         "average": 116095,
-        "short": "test 30",
+        "short": "Code and debug applications’ services / features",
         "description": "test 8",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
 		"id": "project-management",
 		"name": "Project Management",
         "average": 123399,
-        "short": "test 29",
+        "short": "Manages developers to be guided to finish a project",
         "description": "test 9",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
         
 	},
 	{
 		"id": "engineering-management",
 		"name": "Engineering Management",
         "average": 130000,
-        "short": "test 28",
+        "short": "Manages the more technical assets of a project",
         "description": "test 10",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
 		"id": "software-architects",
 		"name": "Software Architects",
         "average": 138187,
-        "short": "test 27",
+        "short": "Plan the guidelines they will follow when it comes to coding",
         "description": "test 11",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "api-design",
 		"name": "API Design",
         "average": 71192,
-        "short": "test 26",
+        "short": "Used to facilitate either change in demand or user convenience in applications",
         "description": "test 12",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "security-&-pentesting",
 		"name": "Security & Pentesting",
         "average": 84283,
-        "short": "test 25",
+        "short": "Tasked with detecting vulnerabilities in programs, websites, computer systems, etc.",
         "description": "test 13",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "distributed-system-architects",
 		"name": "Distributed System Architects",
         "average": 77768,
-        "short": "test 24",
+        "short": "Charge of an enterprise's overall systems",
         "description": "test 14",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
         
 	},
 	{
 		"id": "ux/ui-front-end-designers",
 		"name": "UX/UI Front End Designers",
         "average": 85277,
-        "short": "test 23",
+        "short": "Are in charge of making the website/apps visually pleasing to a consumer",
         "description": "test 15",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
 		"id": "general-front-end-web-development",
 		"name": "General Front End Web Development",
         "average": 76929,
-        "short": "test 22",
+        "short": "Charge of creating user-friendly web pages",
         "description": "test 16",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
 		"id":  "single-page-app-development",
 		"name":  "Single-page App Development",
         "average": 76929,
-        "short": "test 21",
+        "short": "Developement on single page applications which are apps that doesn't need to reload the page during use",
         "description": "test 17",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
 		"id": "quality-assurance-&-testing",
 		"name": "Quality Assurance & Testing",
         "average": 56616,
-        "short": "test 20",
+        "short": "Centers around implementing standards and procedures associated with ensuring that software meets a certain set of requirements before it’s released to the public",
         "description": "test 18",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -167,7 +167,7 @@
         "average": 96016,
         "short": "test 20",
         "description": "test 19",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -176,7 +176,7 @@
         "average": 76526,
         "short": "test 19",
         "description": "test 20",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
     
 	},
 	{
@@ -185,7 +185,7 @@
         "average": 71960,
         "short": "test 18",
         "description": "test 21",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
     
 	},
 	{
@@ -194,7 +194,7 @@
         "average": 113757,
         "short": "test 17",
         "description": "test 22",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
@@ -203,7 +203,7 @@
         "average": 88989,
         "short": "test 16",
         "description": "test 23",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -212,7 +212,7 @@
         "average": 79724,
         "short": "test 15",
         "description": "test 24",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -221,7 +221,7 @@
         "average": 92046,
         "short": "test 14",
         "description": "test 25",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -230,7 +230,7 @@
         "average": 92046,
         "short": "test 13",
         "description": "test 26",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -239,7 +239,7 @@
         "average": 113309,
         "short": "test 12",
         "description": "test 27",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -248,7 +248,7 @@
         "average": 114121,
         "short": "test 11",
         "description": "test 28",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -257,7 +257,7 @@
         "average": 91463,
         "short": "test 10",
         "description": "test 29",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -266,7 +266,7 @@
         "average": 68367,
         "short": "test 9",
         "description": "test 30",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
         
 	},
 	{
@@ -275,7 +275,7 @@
         "average": 49589,
         "short": "test 8",
         "description": "test 31",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
     
 	},
 	{
@@ -284,7 +284,7 @@
         "average": 58165,
         "short": "test 7",
         "description": "test 32",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
@@ -293,7 +293,7 @@
         "average": 82658,
         "short": "test 6",
         "description": "test 33",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
         
 	},
 	{
@@ -302,7 +302,7 @@
         "average": 74298,
         "short": "test 5",
         "description": "test 34",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -311,7 +311,7 @@
         "average": 50923,
         "short": "test 4",
         "description": "test 35",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -320,7 +320,7 @@
         "average": 99951,
         "short": "test 3",
         "description": "test 36",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 		
 	},
 	{
@@ -329,7 +329,7 @@
         "average": 72323,
         "short": "test 2",
         "description": "test 37",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 	},
 	{
@@ -338,7 +338,7 @@
         "average": 69168,
         "short": "test 1",
         "description": "test 38",
-        "imageCredit": "Fabrizio Conti"
+        "youTube": "Fabrizio Conti"
 			
 		
 	}

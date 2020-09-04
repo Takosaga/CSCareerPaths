@@ -18,10 +18,6 @@ struct CourseDetailsView: View {
             ScrollView(.vertical){
                 VStack{
                     
-                    if #available(iOS 14.0, *) {
-                        VideoPlayer(player: AVPlayer(url:  URL(string: course.youtube)!)
-                        )
-                    }
                     
                     Text("Course Description")
                         .padding()
@@ -30,6 +26,12 @@ struct CourseDetailsView: View {
                     Text("\(course.description)")
                         .padding()
                         .foregroundColor(.secondary)
+                    
+                    if #available(iOS 14.0, *) {
+                        VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!)
+                        )
+                    }
+
                     
                     Text("Skills You'll Learn")
                         .padding()
