@@ -7,10 +7,12 @@
 //
 
 import SwiftUI
+import AVKit
 
 struct TeacherView: View {
     var body: some View {
         NavigationView {
+            
             VStack(alignment: .center){
                 Image("mr.gamez")
                     .resizable()
@@ -26,12 +28,12 @@ struct TeacherView: View {
                     .padding()
                 
                 
-                if #available(iOS 14.0, *) {
-                    Link("My Website", destination: URL(string: "https://codewithgamez.github.io/website/")!)
+                
+                Link("My Website", destination: URL(string: "https://codewithgamez.github.io/website/")!)
+                    .padding()
+                Link("My YouTube", destination: URL(string: "https://www.youtube.com/channel/UCq5m_ARYP0LF3vfeArU8dyg")!)
                         .padding()
-                    Link("My YouTube", destination: URL(string: "https://www.youtube.com/channel/UCq5m_ARYP0LF3vfeArU8dyg")!)
-                        .padding()
-                }
+               
                 Spacer()
             }
            
