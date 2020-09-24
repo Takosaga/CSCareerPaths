@@ -15,35 +15,35 @@ struct CourseDetailsView: View {
     
     var body: some View {
         NavigationView {
-            VStack{
-                VideoPlayer(player: AVPlayer(url:  URL(string: "https://www.youtube.com/embed/-xFJM3QQ3TE")!)
-            )
-                ScrollView(.vertical){
-                    VStack{
-                        
-                        
-                        Text("Course Description")
-                            .padding()
-                            .font(.headline)
-                        
-                        Text("\(course.description)")
-                            .padding()
-                            .foregroundColor(.secondary)
-                        
-                        Text("Skills You'll Learn")
-                            .padding()
-                            .font(.headline)
-                        
-                        Text("\(course.skills)")
-                            .padding()
-                            .foregroundColor(.secondary)
-                        
-                        Spacer()
-                    }
-                }
             
+            ScrollView(.vertical){
+                VStack{
+                    Webview(url: course.youtube)
+                        .frame(minWidth: 0, idealWidth: 100, maxWidth: .infinity, minHeight: 0, idealHeight: 200, maxHeight: .infinity, alignment: .center)
+                    
+                    
+                    Text("Course Description")
+                        .padding()
+                        .font(.headline)
+                    
+                    Text("\(course.description)")
+                        .padding()
+                        .foregroundColor(.secondary)
+                    
+                    Text("Skills You'll Learn")
+                        .padding()
+                        .font(.headline)
+                    
+                    Text("\(course.skills)")
+                        .padding()
+                        .foregroundColor(.secondary)
+                    
+                    Spacer()
+                }
             }
-                .navigationBarTitle("\(course.name)", displayMode: .inline)
+        
+        
+            .navigationBarTitle("\(course.name)", displayMode: .inline)
         }
     }
 }

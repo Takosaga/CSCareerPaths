@@ -27,6 +27,7 @@
 		A5767ADA24B7EDF40013954B /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5767AD924B7EDF40013954B /* Job.swift */; };
 		A579D5E924AE9FC8001D1907 /* CareerDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */; };
 		A579D5EB24AEA3FD001D1907 /* CourseDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A579D5EA24AEA3FD001D1907 /* CourseDetailsView.swift */; };
+		A57A3414251C3B8300BEDE0B /* Webview.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57A3413251C3B8300BEDE0B /* Webview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		A5767AD924B7EDF40013954B /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 		A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareerDetailsView.swift; sourceTree = "<group>"; };
 		A579D5EA24AEA3FD001D1907 /* CourseDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetailsView.swift; sourceTree = "<group>"; };
+		A57A3413251C3B8300BEDE0B /* Webview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				A5339D0824A15C9100551446 /* Info.plist */,
 				A5339CFA24A15C9000551446 /* AppDelegate.swift */,
 				A5210D4124A5224B005BDAF4 /* Bundle-Decodable.swift */,
+				A57A3413251C3B8300BEDE0B /* Webview.swift */,
 				A5210D3F24A52151005BDAF4 /* Career.swift */,
 				A579D5E824AE9FC8001D1907 /* CareerDetailsView.swift */,
 				A5339D1424A15DED00551446 /* CareersView.swift */,
@@ -203,6 +206,7 @@
 				A5400AAC24BF95B30023B1AA /* JobsDetailsView.swift in Sources */,
 				A5210D4024A52151005BDAF4 /* Career.swift in Sources */,
 				A5339CFD24A15C9000551446 /* SceneDelegate.swift in Sources */,
+				A57A3414251C3B8300BEDE0B /* Webview.swift in Sources */,
 				A5339CFF24A15C9000551446 /* ContentView.swift in Sources */,
 				A5339D1924A15E0000551446 /* TeacherView.swift in Sources */,
 			);
