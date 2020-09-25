@@ -16,6 +16,10 @@ struct JobsDetailsView: View {
     var body: some View {
         NavigationView {
             VStack{
+                
+                Webview(url: job.youTube)
+                    .frame(minWidth: 0, idealWidth: 100, maxWidth: .infinity, minHeight: 0, idealHeight: 100, maxHeight: 200, alignment: .center)
+                
                 Text("\(job.description)")
                     
                 Button(favorites.contains(job) ? "Remove from Favorite Jobs" : "Add to Favorite Jobs") {
