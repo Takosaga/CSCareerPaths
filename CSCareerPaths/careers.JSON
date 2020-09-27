@@ -60,7 +60,7 @@
         "job": [
             "Android & iOS",
             "Windows Desktop, macOS Desktop, Linux App Development",
-            "Enterprise software development",
+            "Enterprise Software Development",
             "Software Architecture"
         ]
 	},
@@ -71,15 +71,12 @@
 		"description": "The theory of computing is the study of efficient computation, models of computational processes, and their limits.",
 		"imageCredit": "Maarten Duineveld",
 		
-        "jobs": 6,
+        "jobs": 3,
 		
         "job": [
-            "Scientific Research",
-            "Pure Compsci/Pure Math Research",
-            "Scientific Software Development",
+            "Computer and Information Research Scientists",
             "Data Science",
-            "Machine Learning",
-            "Compiler & Language Design"
+            "Machine Learning"
         ]
 	},
 	{
@@ -89,13 +86,12 @@
 		"description": "Marketing professionals use computer technology to plan, manage and monitor campaigns.",
 		"imageCredit": "Carlos Muza",
 		
-        "jobs": 4,
+        "jobs": 3,
 		
         "job": [
             "Growth hacking/web scraping",
             "Analytics",
-            "SEO & SEM",
-            "General Marketing Development"
+            "SEO & SEM"
         ]
 	},
 	{
@@ -105,14 +101,13 @@
 		"description": "Computer hardware includes the physical parts of a computer and graphics which studies methods for digitally synthesizing and manipulating visual content.",
 		"imageCredit": "Miguel Á. Padriñán",
 		
-        "jobs": 6,
+        "jobs": 5,
 		
         "job": [
             "Embedded Software",
             "Chip Design & Architecture",
             "Game Development",
             "Graphics Software Development",
-            "3D Printing & Machining Coding",
             "CGI & Animation"
         ]
 	},

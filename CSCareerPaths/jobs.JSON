@@ -23,7 +23,7 @@
         "average": 88303,
         "short": "Supervise systems and maintain them",
         "description": "test 3",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/WQY8S6RQjUQ"
 			
 	},
 	{
@@ -32,7 +32,7 @@
         "average": 43052,
         "short": "Install voice and cable systems at local areas",
         "description": "test 4",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/11bCD2L-Gus"
 		
 	},
 	{
@@ -41,7 +41,8 @@
         "average": 92714,
         "short": "Ensures an optimal database with security",
         "description": "test 5",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/aI8CB60HGoo"
+
 			
 	},
 	{
@@ -50,7 +51,7 @@
         "average": 37716,
         "short": "In charge of handling the user manual for specific software and hardware",
         "description": "test 6",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/CevB9bkYN2M"
 			
 	},
 	{
@@ -59,7 +60,7 @@
         "average": 96801,
         "short": "Works on both front and back-ends of a website or application",
         "description": "test 7",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/watch?v=FXTqPsvVT6k"
 			
 	},
 	{
@@ -68,7 +69,7 @@
         "average": 116095,
         "short": "Code and debug applications’ services / features",
         "description": "test 8",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/cbSrsYiRamo"
 		
 	},
 	{
@@ -77,7 +78,7 @@
         "average": 123399,
         "short": "Manages developers to be guided to finish a project",
         "description": "test 9",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/TYBVAvWkG6M"
         
 	},
 	{
@@ -86,7 +87,7 @@
         "average": 130000,
         "short": "Manages the more technical assets of a project",
         "description": "test 10",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/E0ZsdQKW1KA"
 		
 	},
 	{
@@ -95,7 +96,7 @@
         "average": 138187,
         "short": "Plan the guidelines they will follow when it comes to coding",
         "description": "test 11",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/NaPNryFI_yU"
 			
 	},
 	{
@@ -104,7 +105,7 @@
         "average": 71192,
         "short": "Used to facilitate either change in demand or user convenience in applications",
         "description": "test 12",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/B9vPoCOP7oY"
 			
 	},
 	{
@@ -113,7 +114,7 @@
         "average": 84283,
         "short": "Tasked with detecting vulnerabilities in programs, websites, computer systems, etc.",
         "description": "test 13",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/q2t91jLmh3k"
 			
 	},
 	{
@@ -122,7 +123,7 @@
         "average": 77768,
         "short": "Charge of an enterprise's overall systems",
         "description": "test 14",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/7VbL89mKK3M"
         
 	},
 	{
@@ -131,7 +132,7 @@
         "average": 85277,
         "short": "Are in charge of making the website/apps visually pleasing to a consumer",
         "description": "test 15",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/4K6hauan2qU"
 			
 	},
 	{
@@ -140,7 +141,7 @@
         "average": 76929,
         "short": "Charge of creating user-friendly web pages",
         "description": "test 16",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/4K6hauan2qU"
 		
 	},
 	{
@@ -149,8 +150,8 @@
         "average": 76929,
         "short": "Developement on single page applications which are apps that doesn't need to reload the page during use",
         "description": "test 17",
-        "youTube": "Fabrizio Conti"
-		
+        "youTube": "https://www.youtube.com/embed/xfGciVdbktI"
+        
 	},
 	{
 		"id": "quality-assurance-&-testing",
@@ -158,7 +159,7 @@
         "average": 56616,
         "short": "Centers around implementing standards and procedures associated with ensuring that software meets a certain set of requirements before it’s released to the public",
         "description": "test 18",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/eD-tKxaUHCg"
 			
 	},
 	{
@@ -167,8 +168,8 @@
         "average": 96016,
         "short": "Work on coding applications for mobile devices",
         "description": "test 19",
-        "youTube": "Fabrizio Conti"
-			
+        "youTube": "https://www.youtube.com/embed/8HmUtn5j0nw"
+        
 	},
 	{
 		"id": "os",
@@ -176,16 +177,16 @@
         "average": 76526,
         "short": "Develop applications for different operating systems",
         "description": "test 20",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/sKSXqW8qfJU"
     
 	},
 	{
 		"id": "enterprise-software-development",
-		"name": "Enterprise software development",
+		"name": "Enterprise Software Development",
         "average": 71960,
         "short": "Plan, design, and implement software programs as well as work to improve for a user/business",
         "description": "test 21",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/KwqjLikUlxs"
     
 	},
 	{
@@ -194,7 +195,7 @@
         "average": 113757,
         "short": "They plan the guidelines people will follow when it comes to coding",
         "description": "test 22",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/0fuEgmibJc4"
 		
 	},
 	{
@@ -203,34 +204,16 @@
         "average": 88989,
         "short": "test 16",
         "description": "test 23",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/2XfA0e4Bzkk"
 			
 	},
 	{
-		"id": "scientific-research",
-		"name": "Scientific Research",
-        "average": 79724,
-        "short": "test 15",
-        "description": "test 24",
-        "youTube": "Fabrizio Conti"
-			
-	},
-	{
-		"id": "pure-compsci/pure-math-research",
-		"name": "Pure Compsci/Pure Math Research",
+		"id": "Computer-and-Information-Research-Scientists",
+		"name": "Computer and Information Research Scientists",
         "average": 92046,
         "short": "test 14",
         "description": "test 25",
-        "youTube": "Fabrizio Conti"
-			
-	},
-	{
-		"id": "scientific-software-development",
-		"name": "Scientific Software Development",
-        "average": 92046,
-        "short": "test 13",
-        "description": "test 26",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/jlZucw7_qWU"
 			
 	},
 	{
@@ -239,8 +222,7 @@
         "average": 113309,
         "short": "test 12",
         "description": "test 27",
-        "youTube": "Fabrizio Conti"
-			
+        "youTube": "https://www.youtube.com/embed/dYZJxhYjBE8"
 	},
 	{
 		"id": "machine-learning",
@@ -248,16 +230,7 @@
         "average": 114121,
         "short": "test 11",
         "description": "test 28",
-        "youTube": "Fabrizio Conti"
-			
-	},
-	{
-		"id": "compiler-&-language-design",
-		"name": "Compiler & Language Design",
-        "average": 91463,
-        "short": "test 10",
-        "description": "test 29",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/I74ymkoNTnw"
 			
 	},
 	{
@@ -266,7 +239,7 @@
         "average": 68367,
         "short": "test 9",
         "description": "test 30",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/Gm-HbTvKw_0"
         
 	},
 	{
@@ -275,17 +248,8 @@
         "average": 49589,
         "short": "test 8",
         "description": "test 31",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/4eEjAkGmbqU"
     
-	},
-	{
-		"id": "general-marketing-development",
-		"name": "General Marketing Development",
-        "average": 58165,
-        "short": "test 7",
-        "description": "test 32",
-        "youTube": "Fabrizio Conti"
-		
 	},
 	{
 		"id": "embedded-software",
@@ -293,7 +257,7 @@
         "average": 82658,
         "short": "test 6",
         "description": "test 33",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/oPn_adlC1Q0"
         
 	},
 	{
@@ -302,7 +266,7 @@
         "average": 74298,
         "short": "test 5",
         "description": "test 34",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/rtAlC5J1U40"
 			
 	},
 	{
@@ -311,7 +275,7 @@
         "average": 50923,
         "short": "test 4",
         "description": "test 35",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/0ixsAavbBpU"
 			
 	},
 	{
@@ -320,17 +284,8 @@
         "average": 99951,
         "short": "test 3",
         "description": "test 36",
-        "youTube": "Fabrizio Conti"
+        "youTube": "https://www.youtube.com/embed/cvcAjgMUPUA"
 		
-	},
-	{
-		"id": "3d-printing-&-machining-coding",
-		"name": "3D Printing & Machining Coding",
-        "average": 72323,
-        "short": "test 2",
-        "description": "test 37",
-        "youTube": "Fabrizio Conti"
-			
 	},
 	{
 		"id": "cgi-&-animation",
@@ -338,8 +293,7 @@
         "average": 69168,
         "short": "test 1",
         "description": "test 38",
-        "youTube": "Fabrizio Conti"
-			
+        "youTube": "https://www.youtube.com/embed/T2XKcJOd8Oc"
 		
 	}
 ]
