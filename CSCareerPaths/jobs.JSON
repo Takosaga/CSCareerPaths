@@ -4,7 +4,7 @@
 		"name": "Sysadmin",
         "average": 82322,
         "short": "In charge of daily tasks such as configuration of computers and managing IT staff",
-        "description": "test 1",
+        "description": "A System Administrator installs specific types of hardware and software for the organization at hand. A System Administrator is in charge of daily tasks such as configuration of computers and managing IT staff. Alongside this, a System Administrator is in charge of daily tasks such as configuration of computers and managing IT staff.",
         "youTube": "https://www.youtube.com/embed/gFUKiS6aBJ0"
 			
 	},
@@ -13,7 +13,7 @@
 		"name": "Network Engineer",
         "average": 70200,
         "short": "Design system configurations and manage installation of networks",
-        "description": "test 2",
+        "description": "A Network Engineer is in charge of making sure the local and wide area network of an organization has the most efficient time a machine is in operation. Also, they design system configurations and manage the installation of a new network.",
         "youTube": "https://www.youtube.com/embed/grgn2JJ1LWU" 
 		
 	},
@@ -22,7 +22,7 @@
 		"name": "Data Center Ops",
         "average": 88303,
         "short": "Supervise systems and maintain them",
-        "description": "test 3",
+        "description": "Data Center Ops supervise systems and maintain them. In addition, they also talk to clients to help with finding the best service that would suit the intended customer. ",
         "youTube": "https://www.youtube.com/embed/WQY8S6RQjUQ"
 			
 	},
@@ -31,7 +31,7 @@
 		"name": "Cable & Router Technicians",
         "average": 43052,
         "short": "Install voice and cable systems at local areas",
-        "description": "test 4",
+        "description": "Cable and Router Technicians install voice and cable systems at local areas.Installation involves digging and setting cables, and troubleshooting for any apparent issues.",
         "youTube": "https://www.youtube.com/embed/11bCD2L-Gus"
 		
 	},
@@ -40,7 +40,7 @@
 		"name": "Database Adminstrators",
         "average": 92714,
         "short": "Ensures an optimal database with security",
-        "description": "test 5",
+        "description": "A Database Administrator ensures an optimal database with security involved. An optimal database includes consistent and precise data that fits the needs of the client.",
         "youTube": "https://www.youtube.com/embed/aI8CB60HGoo"
 
 			
@@ -50,7 +50,7 @@
 		"name": "Technical Support & Documentation",
         "average": 37716,
         "short": "In charge of handling the user manual for specific software and hardware",
-        "description": "test 6",
+        "description": "Technical Support and Documentation is in charge of handling the user manual for the specific software application and hardware. Technical Support and Documentation heavily researches customer-specific documentation solutions. They also must have the ability to edit, and proofread changes within documents about the specific software.",
         "youTube": "https://www.youtube.com/embed/CevB9bkYN2M"
 			
 	},
@@ -59,7 +59,7 @@
 		"name": "Full Stack Engineers",
         "average": 96801,
         "short": "Works on both front and back-ends of a website or application",
-        "description": "test 7",
+        "description": "Works on both front and back-ends of a website or application. Flexible in their work, can either work on database related projects, build user-faced websites, and go through planning phases of a project with clients.",
         "youTube": "https://www.youtube.com/watch?v=FXTqPsvVT6k"
 			
 	},
@@ -68,7 +68,7 @@
 		"name": "Backend Application Development",
         "average": 116095,
         "short": "Code and debug applications’ services / features",
-        "description": "test 8",
+        "description": "Backend application developers mainly code and debug applications’ services / features. More in depth, alongside coding the services and features, they are responsible for the server side web application logic and ensure it can be integrated with the front-end portion.",
         "youTube": "https://www.youtube.com/embed/cbSrsYiRamo"
 		
 	},
@@ -77,7 +77,7 @@
 		"name": "Project Management",
         "average": 123399,
         "short": "Manages developers to be guided to finish a project",
-        "description": "test 9",
+        "description": "The Project Manager is in charge of the project being guided in the right direction. More in depth, they are in charge of allocating their resources and managing their workers to push the project forward.",
         "youTube": "https://www.youtube.com/embed/TYBVAvWkG6M"
         
 	},
@@ -86,7 +86,7 @@
 		"name": "Engineering Management",
         "average": 130000,
         "short": "Manages the more technical assets of a project",
-        "description": "test 10",
+        "description": "Manages the more technical assets of a project. Engineering Management is very knowledgeable of the technical side of the project and uses that to lead engineers, scientists, and technicians.",
         "youTube": "https://www.youtube.com/embed/E0ZsdQKW1KA"
 		
 	},
@@ -95,7 +95,7 @@
 		"name": "Software Architects",
         "average": 138187,
         "short": "Plan the guidelines they will follow when it comes to coding",
-        "description": "test 11",
+        "description": "They plan the guidelines they will follow when it comes to coding. They set the guidelines for coding standards and the design of the applications. Acting as high-level decision makers for their area.",
         "youTube": "https://www.youtube.com/embed/NaPNryFI_yU"
 			
 	},
@@ -104,7 +104,7 @@
 		"name": "API Design",
         "average": 71192,
         "short": "Used to facilitate either change in demand or user convenience in applications",
-        "description": "test 12",
+        "description": "In charge of creating a program that showcases data to a developer or user through other applications or services. API design is used to facilitate either change in demand or user convenience in applications. A good example is asking Google for the weather, google uses an API to get the data from another source and showcases it to the user.",
         "youTube": "https://www.youtube.com/embed/B9vPoCOP7oY"
 			
 	},
@@ -113,7 +113,7 @@
 		"name": "Security & Pentesting",
         "average": 84283,
         "short": "Tasked with detecting vulnerabilities in programs, websites, computer systems, etc.",
-        "description": "test 13",
+        "description": " Tasked with detecting vulnerabilities in your program, website, computer system etc. Cyber Security and Penetration Testing work to pinpoint vulnerabilities in the program, ensuring maximum security.",
         "youTube": "https://www.youtube.com/embed/q2t91jLmh3k"
 			
 	},
@@ -122,7 +122,7 @@
 		"name": "Distributed System Architects",
         "average": 77768,
         "short": "Charge of an enterprise's overall systems",
-        "description": "test 14",
+        "description": "Are in charge of an enterprise's overall systems. They utilize their resources to stay on top of both user/client’s needs and restrictions. Reporting to top management, system architects are in charge of staying up to date with the newest tech innovations to better suit the needs of their users and clients. Often working on advanced projects and complex business issues.",
         "youTube": "https://www.youtube.com/embed/7VbL89mKK3M"
         
 	},
@@ -131,7 +131,7 @@
 		"name": "UX/UI Front End Designers",
         "average": 85277,
         "short": "Are in charge of making the website/apps visually pleasing to a consumer",
-        "description": "test 15",
+        "description": "A UX/UI Front End Designer is in charge of applying interactive and visual designs to websites and applications. To further explain, UX/UI Front End Designers are in charge of making the website visually pleasing to a consumer. You must design and manage digital assets. ",
         "youTube": "https://www.youtube.com/embed/4K6hauan2qU"
 			
 	},
@@ -140,7 +140,7 @@
 		"name": "General Front End Web Development",
         "average": 76929,
         "short": "Charge of creating user-friendly web pages",
-        "description": "test 16",
+        "description": "General Front End Web Development is in charge of creating user-friendly web pages. They make sure that the web page is functional across all platforms and that all interactive elements work together.",
         "youTube": "https://www.youtube.com/embed/4K6hauan2qU"
 		
 	},
@@ -149,7 +149,7 @@
 		"name":  "Single-page App Development",
         "average": 76929,
         "short": "Developement on single page applications which are apps that doesn't need to reload the page during use",
-        "description": "test 17",
+        "description": " A Single-page Application Developer test-trials the application to make sure there are no issues. Alongside testing the application, Single-page App Development they also fix any apparent issues in the application.",
         "youTube": "https://www.youtube.com/embed/xfGciVdbktI"
         
 	},
@@ -167,7 +167,7 @@
 		"name": "Android & iOS",
         "average": 96016,
         "short": "Work on coding applications for mobile devices",
-        "description": "test 19",
+        "description": "Works on coding applications for mobile devices. Develop apps such as virtual assistants for ios and android devices. Typically focusing on ui and ux when creating the applications.",
         "youTube": "https://www.youtube.com/embed/8HmUtn5j0nw"
         
 	},
@@ -176,7 +176,7 @@
 		"name": "Windows Desktop, macOS Desktop, Linux App Development",
         "average": 76526,
         "short": "Develop applications for different operating systems",
-        "description": "test 20",
+        "description": "Develop the behind the scenes applications of systems like windows, macOS, and linux. In charge of developing the backend processing systems for companies or businesses. ",
         "youTube": "https://www.youtube.com/embed/sKSXqW8qfJU"
     
 	},
@@ -185,7 +185,7 @@
 		"name": "Enterprise Software Development",
         "average": 71960,
         "short": "Plan, design, and implement software programs as well as work to improve for a user/business",
-        "description": "test 21",
+        "description": "Plan, design, and implement software programs as well as work to improve on them. Researching, designing, and implementing new software into existing programs to improve on them or meet the needs of the user/business.",
         "youTube": "https://www.youtube.com/embed/KwqjLikUlxs"
     
 	},
@@ -194,7 +194,7 @@
 		"name": "Software Architecture",
         "average": 113757,
         "short": "They plan the guidelines people will follow when it comes to coding",
-        "description": "test 22",
+        "description": "They plan the guidelines they will follow when it comes to coding. They set the guidelines for coding standards and the design of the applications. Acting as high-level decision makers for their area.",
         "youTube": "https://www.youtube.com/embed/0fuEgmibJc4"
 		
 	},

@@ -29,6 +29,7 @@ struct JobsDetailsView: View {
                         self.favorites.add(self.job)
                     }
                 }
+                Spacer()
             }
             
             .navigationBarTitle("\(job.name)", displayMode: .inline)
