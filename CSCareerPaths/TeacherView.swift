@@ -28,9 +28,9 @@ struct TeacherView: View {
                     .padding()
                 
                 
-                
                 Link("My Website", destination: URL(string: "https://codewithgamez.github.io/website/")!)
                     .padding()
+                
                 Link("My YouTube", destination: URL(string: "https://www.youtube.com/channel/UCq5m_ARYP0LF3vfeArU8dyg")!)
                         .padding()
                

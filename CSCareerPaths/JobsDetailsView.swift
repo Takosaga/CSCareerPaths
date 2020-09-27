@@ -20,7 +20,13 @@ struct JobsDetailsView: View {
                 Webview(url: job.youTube)
                     .frame(minWidth: 0, idealWidth: 100, maxWidth: .infinity, minHeight: 0, idealHeight: 100, maxHeight: 200, alignment: .center)
                 
+                Text("Job Description")
+                    .font(.headline)
+                    .padding()
+                
                 Text("\(job.description)")
+                    .foregroundColor(.secondary)
+                    .padding()
                     
                 Button(favorites.contains(job) ? "Remove from Favorite Jobs" : "Add to Favorite Jobs") {
                     if self.favorites.contains(self.job) {
@@ -29,6 +35,7 @@ struct JobsDetailsView: View {
                         self.favorites.add(self.job)
                     }
                 }
+                .padding()
                 Spacer()
             }
             
