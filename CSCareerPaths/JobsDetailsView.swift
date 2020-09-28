@@ -25,6 +25,7 @@ struct JobsDetailsView: View {
                     .padding()
                 
                 Text("\(job.description)")
+                    .multilineTextAlignment(.center)
                     .foregroundColor(.secondary)
                     .padding()
                     

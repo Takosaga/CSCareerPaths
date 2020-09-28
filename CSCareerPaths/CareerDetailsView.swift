@@ -42,6 +42,7 @@ struct CareerDetailsView: View {
                             
                                 
                         }
+                        
                         .layoutPriority(1)
                         
                         if self.favorites.contains(job) {
@@ -50,11 +51,13 @@ struct CareerDetailsView: View {
                                 .accessibility(label: Text("This is a favorite job"))
                                 .foregroundColor(.red)
                         }
-                      
+                        
                     }
+                    
                 }
-            }
                 
+            }
+            
             .navigationBarTitle("Jobs in \(career.field)", displayMode: .inline)
         }
         

@@ -27,6 +27,7 @@ struct CourseDetailsView: View {
                         .font(.headline)
                     
                     Text("\(course.description)")
+                        .multilineTextAlignment(.center)
                         .padding()
                         .foregroundColor(.secondary)
                     
