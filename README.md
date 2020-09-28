@@ -5,4 +5,4 @@ This is the first project I worked on after finishing 100 days of hacking with S
 
 ![Careers](https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif)
 ![Courses](https://media.giphy.com/media/dwltd2N2yV6nXWRHOl/giphy.gif)
-![Teacher](https://media.giphy.com/media/SrrdqaRSVCdUp4wKZj/giphy.gif)
+![Teacher](https://media.giphy.com/media/lVvrzdri7GpDKbhadw/giphy.gif)
