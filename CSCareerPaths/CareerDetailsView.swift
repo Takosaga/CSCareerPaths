@@ -19,8 +19,8 @@ struct CareerDetailsView: View {
             VStack{
                 Image(career.field)
                     .resizable()
-                    .frame(width: 190, height: 180)
                     .scaledToFit()
+                    .frame(width: 150, height: 140)
                 
                 Text("\(career.description)")
                     .foregroundColor(.secondary)

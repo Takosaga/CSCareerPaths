@@ -157,8 +157,8 @@
 		"id": "quality-assurance-&-testing",
 		"name": "Quality Assurance & Testing",
         "average": 56616,
-        "short": "Centers around implementing standards and procedures associated with ensuring that software meets a certain set of requirements before it’s released to the public",
-        "description": "test 18",
+        "short": "Test software to catch any bugs in software before being relased to public",
+        "description": "Also known as a QA Engineer, Software Tester, or Software Test Engineer, a Quality Assurance (QA) Tester develops test plans to test new and existing software, debug code, and improve the usability of software programs. A QA Tester works with the development team to produce top-quality software.  The QA Tester works with the development team to debug code, correct errors, and troubleshoot any issues with software code. A successful QA Tester should be hard-working, have a strong working knowledge of software code and testing methodologies, and be a team player",
         "youTube": "https://www.youtube.com/embed/eD-tKxaUHCg"
 			
 	},
@@ -202,8 +202,8 @@
 		"id": "growth-hacking/web-scraping",
 		"name": "Growth hacking/web scraping",
         "average": 88989,
-        "short": "test 16",
-        "description": "test 23",
+        "short": "Try to get as many users/customers as cheap as possible",
+        "description": "A growth hacker is someone who uses creative, low-cost strategies to help businesses acquire and retain customers. Sometimes growth hackers are also called growth marketers, but growth hackers are not simply marketers. Anyone involved in a product or service, including product managers and engineers, can be a growth hacker.",
         "youTube": "https://www.youtube.com/embed/2XfA0e4Bzkk"
 			
 	},
@@ -211,8 +211,8 @@
 		"id": "Computer-and-Information-Research-Scientists",
 		"name": "Computer and Information Research Scientists",
         "average": 92046,
-        "short": "test 14",
-        "description": "test 25",
+        "short": "Be the first to make breakthrus in computer science",
+        "description": "Computer and information research scientists create and improve computer software and hardware. Creating and improving software involves working with algorithms, which are sets of instructions that tell a computer what to do. Some computing tasks are very difficult and require complex algorithms. Computer and information research scientists try to simplify these algorithms to make computer systems as efficient as possible. The algorithms allow advancements in many types of technology, such as machine learning systems and cloud computing.",
         "youTube": "https://www.youtube.com/embed/jlZucw7_qWU"
 			
 	},
@@ -220,16 +220,16 @@
 		"id": "data-science",
 		"name": "Data Science",
         "average": 113309,
-        "short": "test 12",
-        "description": "test 27",
+        "short": "Use alot of data to guide decisions for organizations",
+        "description": "Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations. Data scientists are analytical experts who utilize their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.",
         "youTube": "https://www.youtube.com/embed/dYZJxhYjBE8"
 	},
 	{
 		"id": "machine-learning",
 		"name": "Machine Learning",
         "average": 114121,
-        "short": "test 11",
-        "description": "test 28",
+        "short": "Use machines to figure out trends from data",
+        "description": "Machine learning engineers sit at the intersection of software engineering and data science. They leverage big data tools and programming frameworks to ensure that the raw data gathered from data pipelines are redefined as data science models that are ready to scale as needed.",
         "youTube": "https://www.youtube.com/embed/I74ymkoNTnw"
 			
 	},
@@ -237,8 +237,8 @@
 		"id": "analytics",
 		"name": "Analytics",
         "average": 68367,
-        "short": "test 9",
-        "description": "test 30",
+        "short": "Guide business decisions with data",
+        "description": "Analytics is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data. It also entails applying data patterns towards effective decision making. It can be valuable in areas rich with recorded information; analytics relies on the simultaneous application of statistics, computer programming and operations research to quantify performance. Organizations may apply analytics to business data to describe, predict, and improve business performance.",
         "youTube": "https://www.youtube.com/embed/Gm-HbTvKw_0"
         
 	},
@@ -246,8 +246,8 @@
 		"id": "seo-&-sem",
 		"name": "SEO & SEM",
         "average": 49589,
-        "short": "test 8",
-        "description": "test 31",
+        "short": "Help growth from search engines like google",
+        "description": "Search Engine Optimization (SEO) has traditionally been thought of as a component of Search Engine Marketing (SEM), encompassing both paid and organic tactics. Today, however, SEM is used to refer exclusively to paid search. According to Search Engine Land, Search Engine Marketing is the process of gaining website traffic by purchasing ads on search engines. Search Engine Optimization, on the other hand, is defined as the process of getting traffic from free, organic, editorial or natural search results.",
         "youTube": "https://www.youtube.com/embed/4eEjAkGmbqU"
     
 	},
@@ -255,8 +255,8 @@
 		"id": "embedded-software",
 		"name": "Embedded Software",
         "average": 82658,
-        "short": "test 6",
-        "description": "test 33",
+        "short": "Work on specialized devices",
+        "description": "Embedded software is computer software, written to control machines or devices that are not typically thought of as computers, commonly known as embedded systems. It is typically specialized for the particular hardware that it runs on and has time and memory constraints. This term is sometimes used interchangeably with firmware.",
         "youTube": "https://www.youtube.com/embed/oPn_adlC1Q0"
         
 	},
@@ -264,8 +264,8 @@
 		"id": "chip-design-&-architecture",
 		"name": "Chip Design & Architecture",
         "average": 74298,
-        "short": "test 5",
-        "description": "test 34",
+        "short": "Work on the newest microporcessors to be used in computers",
+        "description": "Being a microprocessor designer is one of the most challenging and interesting jobs in the tech industry. As you might expect, these engineers work for companies like Intel, Nvidia and AMD to design the next generation of silicon semiconductors, and it takes hundreds of engineers several years of working together to complete a design. They usually have advanced degrees in electrical or computer engineering, and they spend their days solving logic problems that can be reduced to a series of symbols with a pen and paper.",
         "youTube": "https://www.youtube.com/embed/rtAlC5J1U40"
 			
 	},
@@ -273,8 +273,8 @@
 		"id": "game-development",
 		"name": "Game Development",
         "average": 50923,
-        "short": "test 4",
-        "description": "test 35",
+        "short": "Make games",
+        "description": "Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design. A game developer could be a programmer, a sound designer, an artist, a designer or many other roles available in the industry.",
         "youTube": "https://www.youtube.com/embed/0ixsAavbBpU"
 			
 	},
@@ -282,8 +282,8 @@
 		"id": "graphics-software-development",
 		"name": "Graphics Software Development",
         "average": 99951,
-        "short": "test 3",
-        "description": "test 36",
+        "short": "Create grapichs to be use inside software",
+        "description": "Graphics engineers create integrated graphics and visual effects systems that are used in the design and development of software applications, such as video games and operating systems. In terms of occupational focus, they are most closely associated with computer hardware engineers and software developers. In particular, graphics engineers write code in various programming languages to create a visual user interface for systems software or end-user programs. They may also consult with art directors, graphic designers and other related professionals to provide them with the computer tools and software they need to produce motion graphics and visuals.",
         "youTube": "https://www.youtube.com/embed/cvcAjgMUPUA"
 		
 	},
@@ -291,8 +291,8 @@
 		"id": "cgi-&-animation",
 		"name": "CGI & Animation",
         "average": 69168,
-        "short": "test 1",
-        "description": "test 38",
+        "short": "Use computers to create animations or visual effects",
+        "description": "Computer animation is the process used for digitally generating animated images. The more general term computer-generated imagery (CGI) encompasses both static scenes and dynamic images, while computer animation only refers to moving images. Modern computer animation usually uses 3D computer graphics to generate a two-dimensional picture, although 2D computer graphics are still used for stylistic, low bandwidth, and faster real-time renderings. Sometimes, the target of the animation is the computer itself, but sometimes film as well.",
         "youTube": "https://www.youtube.com/embed/T2XKcJOd8Oc"
 		
 	}
