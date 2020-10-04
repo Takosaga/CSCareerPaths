@@ -1,0 +1,6 @@
+baseURL = "https://takosaga.github.io/CSCareerPaths/"
+languageCode = "en-us"
+title = "Privacy Policy"
+theme = "hugo-scroll"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
